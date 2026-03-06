@@ -39,7 +39,7 @@ def obtain_jaspar_dataset(ncit_search_term, page_size=500):
 
 
 def obtain_taxonomy_id(species_search_term):
-    url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+    url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
 
     params = {
         'db': 'taxonomy',
@@ -57,8 +57,8 @@ def obtain_taxonomy_id(species_search_term):
     return tax_id
 
 
-def obtain_all_cell_lines(cell_line_search_term, tax_id, rows_size=1000):
-    url = "https://api.cellosaurus.org/search/cell-line"
+def obtain_all_cell_lines(cell_line_search_term, search_term_type, tax_id, rows_size=1000):
+    url = 'https://api.cellosaurus.org/search/cell-line'
 
     start = 0
     all_cell_lines_data = []
@@ -66,7 +66,7 @@ def obtain_all_cell_lines(cell_line_search_term, tax_id, rows_size=1000):
     while True:
 
         params = {
-            'q': f'di:{cell_line_search_term} ox:{tax_id}',
+            'q': f'{search_term_type}:{cell_line_search_term} ox:{tax_id}',
             'start': start,
             'rows': rows_size,
             'format': 'json'
