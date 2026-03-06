@@ -1,0 +1,1643 @@
+code,concept
+C3224,Melanoma
+C91477,Melanoma Pathway
+C21790,Mouse Melanoma
+C103113,NCI CTEP SDC Melanoma Sub-Category Terminology
+C157920,Melanoma Surgery
+C1830,Melanoma Theraccine
+C46091,Melanoma Biomarker
+C2517,Melanoma Vaccine
+C3802,Amelanotic Melanoma
+C162547,Penile Melanoma
+C4553,Corneal Melanoma
+C27394,Vaginal Melanoma
+C4640,Rectal Melanoma
+C120298,Canine Melanoma
+C133089,Hamster Melanoma
+C147983,Refractory Melanoma
+C153169,Advanced Melanoma
+C159663,Bladder Melanoma
+C159665,Urethral Melanoma
+C161611,Prostate Melanoma
+C189816,DecisionDx-Melanoma
+C190239,Resectable Melanoma
+C204888,Volar Melanoma
+C114828,Mucosal Melanoma
+C134773,Gerbil Melanoma
+C190746,Iridociliary Melanoma
+C205125,Nodular Melanoma
+C205129,Dermal Melanoma
+C215226,Anorectal Melanoma
+C4228,Regressing Melanoma
+C45652,Lung Melanoma
+C165497,Cutaneous Spitz Melanoma
+C204889,Nail Apparatus Melanoma
+C48607,Invasive Cutaneous Melanoma
+C24155,Mouse Gallbladder Melanoma
+C3510,Cutaneous Melanoma
+C4550,Conjunctival Melanoma
+C4561,Choroid Melanoma
+C5707,Esophageal Melanoma
+C54686,Melanoma Cells Present
+C166399,Sinonasal Mucosal Melanoma
+C48614,Desmoplastic Neurotropic Melanoma
+C80046,B16alphaGal Melanoma Vaccine
+C8711,Non-Cutaneous Melanoma
+C16835,Experimental Malignant Melanoma
+C135006,Fish Melanoma
+C178441,Ovarian Melanoma
+C188067,Jejunal Melanoma
+C198601,Goat Melanoma
+C204883,Acral Melanoma
+C213491,Mediastinal Melanoma
+C217198,Localized Melanoma
+C37257,Desmoplastic Melanoma
+C54662,Nevoid Melanoma
+C8925,Metastatic Melanoma
+C104501,Melanoma-Associated Antigen 2
+C4558,Ciliary Body Melanoma
+C9151,Lentigo Maligna Melanoma
+C157882,Immunotherapy for Melanoma
+C1633,Polyvalent Melanoma Vaccine
+C166405,Mucosal Nodular Melanoma
+C171294,Recurrent Ocular Melanoma
+C172247,Unresectable Uveal Melanoma
+C173335,Refractory Uveal Melanoma
+C182127,Metastatic Conjunctival Melanoma
+C189817,DecisionDx-Uveal Melanoma
+C190240,Resectable Cutaneous Melanoma
+C213517,Parotid Gland Melanoma
+C214942,Unresectable Conjunctival Melanoma
+C214944,Recurrent Conjunctival Melanoma
+C214951,Recurrent Acral Melanoma
+C54663,Signet Ring Melanoma
+C7089,Regressing Cutaneous Melanoma
+C9097,Recurrent Cutaneous Melanoma
+C36872,Epithelioid Melanoma Cell
+C62403,Balloon Melanoma Cell
+C118497,Circulating Melanoma Cell
+C156072,Metastatic Cutaneous Melanoma
+C182024,Refractory Metastatic Melanoma
+C212033,Advanced Acral Melanoma
+C213201,Conjunctival Amelanotic Melanoma
+C213771,Unresectable Acral Melanoma
+C215228,Resectable Anorectal Melanoma
+C217197,Localized Uveal Melanoma
+C48622,Mucosal Lentiginous Melanoma
+C6865,Choroid Necrotic Melanoma
+C9152,Low-CSD Melanoma
+C62400,Large Melanoma Cell
+C4358,Eyelid Melanoma
+C4639,Anal Melanoma
+C5735,Gallbladder Melanoma
+C7712,Uveal Melanoma
+C176904,Melanoma-Pancreatic Cancer Syndrome
+C66753,Melanoma in Precancerous Melanosis
+C5915,Oral Cavity Mucosal Melanoma
+C38132,12 Melanoma Peptide Vaccine
+C131506,Childhood Melanoma
+C134569,Horse Melanoma
+C134575,Xiphophorus Melanoma
+C148517,Unresectable Melanoma
+C204887,Subungual Melanoma
+C5442,Intracranial Melanoma
+C7087,Recurrent Melanoma
+C8410,Breast Melanoma
+C107428,Melanoma-Associated Antigen B2
+C26484,Melanoma-Associated Antigen D1
+C91338,Melanoma-Associated Antigen 11
+C21793,Mouse Spindle-cell Melanoma
+C5158,Spinal Cord Melanoma
+C175345,Lacrimal Drainage System Melanoma
+C148494,Locally Advanced Melanoma
+C165659,High-CSD Melanoma
+C169085,Metastatic Choroid Melanoma
+C169086,Metastatic Mucosal Melanoma
+C171572,Advanced Cutaneous Melanoma
+C180894,Refractory Mucosal Melanoma
+C180896,Advanced Mucosal Melanoma
+C182020,Recurrent Metastatic Melanoma
+C213200,Conjunctival Nodular Melanoma
+C4633,Cutaneous Amelanotic Melanoma
+C48612,Minimal Deviation Melanoma
+C5318,Childhood Meningeal Melanoma
+C7990,Uveal Necrotic Melanoma
+C4240,Melanoma Arising in Blue Nevus
+C62401,Small Melanoma Cell
+C48864,Cutaneous Melanoma pM0 TNM Finding
+C48869,Cutaneous Melanoma pM1c TNM Finding
+C98126,Melanoma-Derived Growth Regulatory Protein
+C111021,Uveal Class 2 Melanoma
+C158014,Topical Medications for Melanoma
+C171296,Locally Advanced Ocular Melanoma
+C178443,Genitourinary System Mucosal Melanoma
+C188079,Rectal Epithelioid Cell Melanoma
+C194143,Malignant Melanoma of Lip
+C209346,Locally Advanced Mucosal Melanoma
+C2466,Peptide 946 Melanoma Vaccine
+C6098,Iris Spindle Cell Melanoma
+C6099,Choroid Spindle Cell Melanoma
+C60451,Rat Malignant Melanoma
+C48865,Cutaneous Melanoma pMX TNM Finding
+C7913,Ocular Melanoma with Extraocular Extension
+C54158,Spindle A Melanoma Cell
+C54159,Spindle B Melanoma Cell
+C204843,"Low-CSD Melanoma, Superficial Spreading Melanoma Subtype"
+C111022,Uveal Class 1a Melanoma
+C157924,Mohs Surgery for Melanoma
+C157998,Targeted Therapy for Melanoma
+C165535,Unresectable Acral Lentiginous Melanoma
+C173328,Refractory Non-Cutaneous Melanoma
+C179472,Genetic Predisposition to Melanoma
+C214937,Locally Advanced Unresectable Melanoma
+C214948,Unresectable Non-Cutaneous Melanoma
+C215234,Resectable Sinonasal Mucosal Melanoma
+C2468,Tetanus Peptide Melanoma Vaccine
+C7092,Metastatic Non-Cutaneous Melanoma
+C21791,Mouse Epithelioid Melanoma
+C21797,Other Mouse Melanoma
+C200446,Melanoma with Known Primary Indicator
+C156749,Melanoma Risk Factor
+C104511,Melanoma-Associated Antigen 1
+C104523,Melanoma-Associated Antigen B18
+C154588,Melanoma Advanced Imaging Dermatoscope
+C17513,Melanoma-Associated Antigen 3
+C29178,Melanoma Monoclonal Antibody hIgG2A
+C4232,Melanoma in Junctional Nevus
+C104494,B Melanoma Antigen 1
+C155306,Recurrent Cutaneous Melanoma of the Extremity
+C7918,Stage III Cutaneous Melanoma AJCC v6
+C21795,Mouse Spindle and Epithelioid Melanoma
+C36873,Melanoma Cell
+C136892,Cutaneous Melanoma TNM Finding v8
+C179206,Metastatic Melanoma in the Brain
+C8423,Stage 0 Cutaneous Melanoma AJCC v6 and v7
+C48839,Cutaneous Melanoma pTX TNM Finding v6
+C48846,Cutaneous Melanoma pT2a TNM Finding v6 and v7
+C48851,Cutaneous Melanoma pT4 TNM Finding v6 and v7
+C48855,Cutaneous Melanoma pN0 TNM Finding v6 and v7
+C5577,Stage I Uveal Melanoma AJCC v7
+C5578,Stage II Uveal Melanoma AJCC v7
+C88139,Stage IIIC Uveal Melanoma AJCC v7
+C5317,Meningeal Melanoma
+C7361,Scrotal Melanoma
+C8498,Hereditary Melanoma
+C8562,Ocular Melanoma
+C8601,Retinal Melanoma
+C9088,Iris Melanoma
+C40239,Cervical Melanoma
+C113841,Melanoma-Associated Antigen Family
+C150544,Refractory Cutaneous Melanoma
+C157930,Non-Melanoma Surgery
+C171295,Metastatic Ocular Melanoma
+C173329,Refractory Ocular Melanoma
+C178518,Penile Cutaneous Melanoma
+C185639,Canine Oral Melanoma
+C190137,Advanced Ocular Melanoma
+C190280,Childhood Cutaneous Melanoma
+C212032,Metastatic Acral Melanoma
+C214947,Unresectable Ocular Melanoma
+C4022,Acral Lentiginous Melanoma
+C4227,Balloon Cell Melanoma
+C4237,Spindle Cell Melanoma
+C7914,Recurrent Uveal Melanoma
+C159232,Margin Involved by Invasive Melanoma
+C214938,Locally Advanced Unresectable Mucosal Melanoma
+C214949,Locally Advanced Unresectable Ocular Melanoma
+C36874,Spindle Melanoma Cell
+C64059,Malignant Uveal Melanoma of the Rat Eyeball
+C48842,Cutaneous Melanoma pT1 TNM Finding v6
+C48856,Cutaneous Melanoma pN1 TNM Finding v6
+C48857,Cutaneous Melanoma pN1a TNM Finding v6
+C48858,Cutaneous Melanoma pN1b TNM Finding v6
+C48860,Cutaneous Melanoma pN2a TNM Finding v6
+C48861,Cutaneous Melanoma pN2b TNM Finding v6
+C111020,Uveal Class 1 Melanoma
+C111023,Uveal Class 1b Melanoma
+C174498,Iris Epithelioid Cell Melanoma
+C178453,Urinary System Mucosal Melanoma
+C1981,Autologous-Cell Melanoma Vaccine
+C7917,Stage II Cutaneous Melanoma AJCC v6 and v7
+C64123,Malignant Melanoma of the Rat Skin
+C88136,Stage IIB Uveal Melanoma AJCC v7
+C159415,CPTAC Melanoma Baseline Form
+C54163,Medium Size Melanoma Cell
+C8785,Recurrent Lentigo Maligna Melanoma
+C118828,Orbital Melanoma
+C134572,Medaka Melanoma
+C178519,Gastric Melanoma
+C111028,Extrascleral Extension of Uveal Melanoma
+C140556,Conjunctival Melanoma TNM Finding v8
+C171297,Locally Advanced Non-Cutaneous Melanoma
+C214936,Locally Advanced Unresectable Cutaneous Melanoma
+C214943,Locally Advanced Unresectable Conjunctival Melanoma
+C221405,CDK4-Related Melanoma Predisposition Syndrome
+C27920,Solar Radiation-Related Cutaneous Melanoma
+C4239,Type B Spindle Cell Melanoma
+C156362,Feline Melanoma
+C40329,Vulvar Melanoma
+C159336,CPTAC Melanoma Follow-Up Form
+C204840,Melanoma in Intermittently Sun-Exposed Skin
+C48814,Melanoma Tumor-Reactive Autologous Tumor Infiltrating Lymphocyte
+C194893,Melanoma in Situ of Anal Skin
+C194904,Melanoma in Situ of Other Sites
+C194875,Melanoma in Situ of Lip
+C194892,Melanoma in Situ of Trunk
+C125151,Have Swelling at Melanoma Site Question
+C21796,Mouse Amelanotic Spindle and Epithelioid Melanoma
+C86026,Stage IA Cutaneous Melanoma AJCC v7
+C86030,Stage IB Cutaneous Melanoma AJCC v7
+C86051,Stage IIIB Cutaneous Melanoma AJCC v7
+C178317,Personalized Neoantigen Plasmid DNA Melanoma Vaccine EVX-02
+C133504,Metastatic Melanoma in the Central Nervous System
+C21794,Mouse Amelanotic Spindle-cell Melanoma
+C86033,Stage IIA Cutaneous Melanoma AJCC v6 and v7
+C104515,Melanoma-Associated Antigen 4
+C104526,Melanoma-Associated Antigen C1
+C104529,Melanoma-Associated Antigen C2
+C16444,Cloudman S91 Malignant Melanoma
+C21792,Mouse Amelanotic Epithelioid Melanoma
+C136896,Cutaneous Melanoma cM1 TNM Finding v8
+C136910,Cutaneous Melanoma cNX TNM Finding v8
+C136911,Cutaneous Melanoma cN0 TNM Finding v8
+C136920,Cutaneous Melanoma cN3c TNM Finding v8
+C136923,Cutaneous Melanoma pM1 TNM Finding v8
+C136924,Cutaneous Melanoma pM1a TNM Finding v8
+C136930,Cutaneous Melanoma pM1c TNM Finding v8
+C136938,Cutaneous Melanoma pTX TNM Finding v8
+C136944,Cutaneous Melanoma pT2 TNM Finding v8
+C136955,Cutaneous Melanoma pN0 TNM Finding v8
+C136956,Cutaneous Melanoma pN1 TNM Finding v8
+C136963,Cutaneous Melanoma pN3 TNM Finding v8
+C136964,Cutaneous Melanoma pN3a TNM Finding v8
+C136966,Cutaneous Melanoma pN3c TNM Finding v8
+C137677,Pathologic Stage IV Cutaneous Melanoma AJCC v8
+C8781,Stage I Acral Lentiginous Melanoma AJCC v7
+C8786,Stage I Lentigo Maligna Melanoma AJCC v7
+C8791,Stage II Low-CSD Melanoma AJCC v7
+C8792,Stage III Low-CSD Melanoma AJCC v7
+C136895,Cutaneous Melanoma cM0 TNM Finding v8
+C136900,Cutaneous Melanoma cM1b TNM Finding v8
+C136903,Cutaneous Melanoma cM1c TNM Finding v8
+C136912,Cutaneous Melanoma cN1 TNM Finding v8
+C136913,Cutaneous Melanoma cN1b TNM Finding v8
+C136919,Cutaneous Melanoma cN3b TNM Finding v8
+C136927,Cutaneous Melanoma pM1b TNM Finding v8
+C136934,Cutaneous Melanoma pM1d TNM Finding v8
+C136940,Cutaneous Melanoma pTis TNM Finding v8
+C136946,Cutaneous Melanoma pT2b TNM Finding v8
+C136958,Cutaneous Melanoma pN1c TNM Finding v8
+C137645,Cutaneous Melanoma by AJCC v8 Stage
+C137668,Pathologic Stage IIB Cutaneous Melanoma AJCC v8
+C8793,Stage IV Low-CSD Melanoma AJCC v7
+C160667,Melanoma and Non-Melanoma Related Event Occurred after Initial Treatment
+C213774,Non-Sun Exposed Skin Melanoma
+C140569,Conjunctival Melanoma cT2 TNM Finding v8
+C140571,Conjunctival Melanoma cT2b TNM Finding v8
+C140578,Conjunctival Melanoma cT3d TNM Finding v8
+C140582,Conjunctival Melanoma pM1 TNM Finding v8
+C140589,Conjunctival Melanoma pT1b TNM Finding v8
+C140590,Conjunctival Melanoma pT2 TNM Finding v8
+C140598,Conjunctival Melanoma pT4 TNM Finding v8
+C140616,Uveal Melanoma pM1c TNM Finding v8
+C140621,Iris Melanoma pT1c TNM Finding v8
+C140625,Iris Melanoma pT2c TNM Finding v8
+C140672,Uveal Melanoma by AJCC v7 Stage
+C213775,Unresectable Non-Sun Exposed Skin Melanoma
+C48838,Cutaneous Melanoma Pathologic TNM Finding v6
+C6861,Choroid Spindle Cell Type A Melanoma
+C7987,Uveal Spindle Cell Type A Melanoma
+C7988,Uveal Spindle Cell Type B Melanoma
+C88381,Cutaneous Melanoma pTX TNM Finding v7
+C88382,Cutaneous Melanoma pT1 TNM Finding v7
+C88392,Cutaneous Melanoma pN2b TNM Finding v7
+C88397,Cutaneous Melanoma pM1b TNM Finding v7
+C88398,Cutaneous Melanoma Clinical TNM Finding v7
+C88400,Cutaneous Melanoma cNX TNM Finding v7
+C88404,Cutaneous Melanoma cN3 TNM Finding v7
+C88408,Cutaneous Melanoma cM1a TNM Finding v7
+C178521,Pharyngeal Mucosal Melanoma
+C178522,Nasopharyngeal Mucosal Melanoma
+C188185,Adrenal Cortical Melanoma
+C4236,Epithelioid Cell Melanoma
+C194876,"Melanoma in Situ of Eyelid, Including Canthus"
+C16317,B16 Malignant Melanoma
+C8790,Stage I Low-CSD Melanoma AJCC v7
+C137664,Pathologic Stage IA Cutaneous Melanoma AJCC v8
+C137665,Pathologic Stage IB Cutaneous Melanoma AJCC v8
+C64124,Melanotic Malignant Melanoma of the Rat Skin
+C48844,Cutaneous Melanoma pT1b TNM Finding v6
+C48862,Cutaneous Melanoma pN2c TNM Finding v6
+C48868,Cutaneous Melanoma pM1b TNM Finding v6
+C48848,Cutaneous Melanoma pT3 TNM Finding v6 and v7
+C88135,Stage IIA Uveal Melanoma AJCC v7
+C140557,Conjunctival Melanoma Clinical TNM Finding v8
+C140563,Conjunctival Melanoma cT0 TNM Finding v8
+C140566,Conjunctival Melanoma cT1b TNM Finding v8
+C140568,Conjunctival Melanoma cT1d TNM Finding v8
+C140573,Conjunctival Melanoma cT2d TNM Finding v8
+C140576,Conjunctival Melanoma cT3b TNM Finding v8
+C140577,Conjunctival Melanoma cT3c TNM Finding v8
+C140587,Conjunctival Melanoma pT1 TNM Finding v8
+C140593,Conjunctival Melanoma pT3 TNM Finding v8
+C140594,Conjunctival Melanoma pT3a TNM Finding v8
+C140595,Conjunctival Melanoma pT3b TNM Finding v8
+C140606,Uveal Melanoma cM0 TNM Finding v8
+C140607,Uveal Melanoma cM1 TNM Finding v8
+C140611,Uveal Melanoma Pathologic TNM Finding v8
+C140614,Uveal Melanoma pM1a TNM Finding v8
+C140615,Uveal Melanoma pM1b TNM Finding v8
+C140620,Iris Melanoma pT1b TNM Finding v8
+C140623,Iris Melanoma pT2a TNM Finding v8
+C140653,Uveal Melanoma pN1 TNM Finding v8
+C140655,Uveal Melanoma pN1b TNM Finding v8
+C194158,Malignant Melanoma of Skin of Breast
+C206644,Uveal Melanoma CAP Synoptic Pathology Report
+C212038,Metastatic Cutaneous Melanoma of the Extremity
+C213511,Metastatic Melanoma in the Temporal Bone
+C213776,Metastatic Non-Sun Exposed Skin Melanoma
+C214950,Locally Advanced Unresectable Non-Cutaneous Melanoma
+C2430,Sargramostim Plasmid DNA Melanoma Vaccine Adjuvant
+C27919,Old Burn Scar-Related Cutaneous Melanoma
+C6862,Choroid Spindle Cell Type B Melanoma
+C73998,ALVAC(2) Melanoma Multi-antigen Vaccine
+C88379,Cutaneous Melanoma Pathologic TNM Finding v7
+C88393,Cutaneous Melanoma pN2c TNM Finding v7
+C88409,Cutaneous Melanoma cM1b TNM Finding v7
+C176905,Melanoma-Astrocytoma Syndrome
+C215044,Melanoma In Situ
+C11355,Peptide 946 Melanoma Vaccine/QS21/Tetanus Peptide Melanoma Vaccine
+C133187,Head and Neck Mucosal Melanoma
+C157925,Mohs Surgery for Non-Melanoma
+C158015,Topical Medications for Non-Melanoma
+C171220,Personal History of Cutaneous Melanoma
+C190138,Locally Advanced Unresectable Uveal Melanoma
+C215389,Metastatic Melanoma in the Myocardium
+C2745,B7 Transfected Melanoma Cell Vaccine
+C40001,Ovarian Dermoid Cyst with Melanoma
+C6117,Ciliary Body Spindle Cell Melanoma
+C155305,Cutaneous Melanoma of the Extremity
+C137662,Pathologic Stage 0 Cutaneous Melanoma AJCC v8
+C37827,Melanoma Helper Peptide Vaccine/Montanide ISA-51/Multi-Epitope Melanoma Peptide Vaccine/Sargramostim
+C159575,Other Site of New Primary Melanoma Question
+C64049,Malignant Melanoma of the Rat Spinal Meninx
+C175435,Recurrent Acral Lentiginous Melanoma
+C179427,Metastatic Acral Lentiginous Melanoma
+C180895,Advanced Non-Cutaneous Melanoma
+C194155,Malignant Melanoma of Nose
+C204981,Conjunctival Melanoma In Situ
+C205127,De Novo Nodular Melanoma
+C222359,Sinclair Swine Cutaneous Melanoma
+C35780,Uveal Epithelioid Cell Melanoma
+C6102,Choroid Epithelioid Cell Melanoma
+C7088,Recurrent Non-Cutaneous Melanoma
+C7090,Regressing Non-Cutaneous Melanoma
+C91722,4-Peptide Melanoma Vaccine
+C11706,BCG/Polyvalent Melanoma Vaccine
+C4235,Melanoma Arising in Giant Congenital Nevus
+C174506,Iris Mixed Epithelioid and Spindle Cell Melanoma
+C35781,Uveal Mixed Epithelioid and Spindle Cell Melanoma
+C35782,Choroid Mixed Epithelioid and Spindle Cell Melanoma
+C158833,Non-Melanoma Related Only Event Occurred after Initial Treatment
+C136899,Cutaneous Melanoma cM1a(1) TNM Finding v8
+C136907,Cutaneous Melanoma cM1d(0) TNM Finding v8
+C136928,Cutaneous Melanoma pM1b(0) TNM Finding v8
+C136932,Cutaneous Melanoma pM1c(1) TNM Finding v8
+C22054,Malignant Melanoma of the Mouse Nervous System
+C64048,Malignant Melanoma of the Rat Cerebral Meninx
+C136901,Cutaneous Melanoma cM1b(0) TNM Finding v8
+C136908,Cutaneous Melanoma cM1d(1) TNM Finding v8
+C136925,Cutaneous Melanoma pM1a(0) TNM Finding v8
+C136931,Cutaneous Melanoma pM1c(0) TNM Finding v8
+C136936,Cutaneous Melanoma pM1d(1) TNM Finding v8
+C158836,Site of New Primary Melanoma Question
+C86053,Stage IIIC Cutaneous Melanoma AJCC v7
+C88415,Stage III Cutaneous Melanoma AJCC v7
+C7091,Digestive System Mucosal Melanoma
+C155311,Advanced Cutaneous Melanoma of the Extremity
+C88628,Melanoma of the Conjunctiva pT3 TNM Finding v7
+C88629,Melanoma of the Conjunctiva pT4 TNM Finding v7
+C88635,Melanoma of the Conjunctiva pM1 TNM Finding v7
+C88640,Melanoma of the Conjunctiva cTX TNM Finding v7
+C88654,Melanoma of the Conjunctiva cT3b TNM Finding v7
+C88670,Melanoma of the Iris pTX TNM Finding v7
+C88677,Melanoma of the Iris pT2a TNM Finding v7
+C88680,Melanoma of the Iris pT4 TNM Finding v7
+C88708,Melanoma of the Uvea pNX TNM Finding v7
+C88710,Melanoma of the Uvea pN1 TNM Finding v7
+C88713,Melanoma of the Uvea pM1a TNM Finding v7
+C88650,Melanoma of the Conjunctiva cT2c TNM Finding v7
+C88651,Melanoma of the Conjunctiva cT2d TNM Finding v7
+C194144,"Malignant Melanoma of Unspecified Eyelid, Including Canthus"
+C194145,"Malignant Melanoma of Right Eyelid, Including Canthus"
+C194166,Malignant Melanoma of Overlapping Sites of Skin
+C6863,Ciliary Body Spindle Cell Type B Melanoma
+C11583,Incomplete Freund's Adjuvant/Peptide 946-Tetanus Peptide Conjugate Melanoma Vaccine
+C104498,Melanoma-Associated Antigen 10
+C159279,Melanoma Involvement of Regional Cutaneous or Subcutaneous Tissue
+C194878,"Melanoma in Situ of Right Eyelid, Including Canthus"
+C194890,Melanoma in Situ of Other Parts of Face
+C88616,Melanoma of the Conjunctiva pTX TNM Finding v7
+C88622,Melanoma of the Conjunctiva pT1b TNM Finding v7
+C88624,Melanoma of the Conjunctiva pT2a TNM Finding v7
+C88625,Melanoma of the Conjunctiva pT2b TNM Finding v7
+C88627,Melanoma of the Conjunctiva pT2c TNM Finding v7
+C88632,Melanoma of the Conjunctiva pN0 TNM Finding v7
+C88672,Melanoma of the Iris pT1 TNM Finding v7
+C88673,Melanoma of the Iris pT1a TNM Finding v7
+C88714,Melanoma of the Uvea pM1b TNM Finding v7
+C88715,Melanoma of the Uvea pM1c TNM Finding v7
+C88716,Melanoma of the Uvea Clinical TNM Finding v7
+C148245,Unresectable Cutaneous Melanoma
+C148514,Metastatic Uveal Melanoma
+C148515,Advanced Uveal Melanoma
+C165536,Unresectable Mucosal Melanoma
+C170954,Recurrent Mucosal Melanoma
+C178517,Penile Mucosal Melanoma
+C209348,Oligometastatic Cutaneous Melanoma
+C215227,Unresectable Anorectal Melanoma
+C4225,Cutaneous Nodular Melanoma
+C5319,Adult Meningeal Melanoma
+C11428,Incomplete Freund's Adjuvant/Peptide 946 Melanoma Vaccine
+C136893,Cutaneous Melanoma Clinical TNM Finding v8
+C136906,Cutaneous Melanoma cM1d TNM Finding v8
+C136916,Cutaneous Melanoma cN2b TNM Finding v8
+C136941,Cutaneous Melanoma pT1 TNM Finding v8
+C136949,Cutaneous Melanoma pT3b TNM Finding v8
+C136951,Cutaneous Melanoma pT4a TNM Finding v8
+C136952,Cutaneous Melanoma pT4b TNM Finding v8
+C136959,Cutaneous Melanoma pN2 TNM Finding v8
+C53275,Dendritic Melanoma Cell
+C62346,Giant Melanoma Cell
+C128801,Hereditary Melanoma with CDKN2A Mutation
+C11590,ALVAC-hB7.1/Canarypox-hIL-12 Melanoma Vaccine
+C137648,Clinical Stage I Cutaneous Melanoma AJCC v8
+C137651,Clinical Stage II Cutaneous Melanoma AJCC v8
+C137663,Pathologic Stage I Cutaneous Melanoma AJCC v8
+C64104,Amelanotic Malignant Melanoma of the Rat Skin
+C158835,Histological Type of New Non-Melanoma Tumor Event Question
+C116072,Autologous CD8+ Melanoma Specific T Cells
+C140559,Conjunctival Melanoma cM0 TNM Finding v8
+C140562,Conjunctival Melanoma cTX TNM Finding v8
+C140564,Conjunctival Melanoma cT1 TNM Finding v8
+C140572,Conjunctival Melanoma cT2c TNM Finding v8
+C140584,Conjunctival Melanoma pTX TNM Finding v8
+C140585,Conjunctival Melanoma pT0 TNM Finding v8
+C140586,Conjunctival Melanoma pTis TNM Finding v8
+C140588,Conjunctival Melanoma pT1a TNM Finding v8
+C140591,Conjunctival Melanoma pT2a TNM Finding v8
+C140597,Conjunctival Melanoma pT3d TNM Finding v8
+C140600,Conjunctival Melanoma pNX TNM Finding v8
+C140601,Conjunctival Melanoma pN0 TNM Finding v8
+C140629,Iris Melanoma pT4b TNM Finding v8
+C150130,Uveal Melanoma Metastatic in the Liver
+C66756,Mixed Epithelioid and Spindle Cell Melanoma
+C88383,Cutaneous Melanoma pT1a TNM Finding v7
+C88388,Cutaneous Melanoma pN1a TNM Finding v7
+C88391,Cutaneous Melanoma pN2a TNM Finding v7
+C88396,Cutaneous Melanoma pM1a TNM Finding v7
+C88402,Cutaneous Melanoma cN1 TNM Finding v7
+C88410,Cutaneous Melanoma cM1c TNM Finding v7
+C88666,Melanoma of the Uvea TNM Finding v7
+C194880,"Melanoma in Situ of Right Lower Eyelid, Including Canthus"
+C194884,Melanoma in Situ of Ear and External Auricular Canal
+C194898,"Melanoma in Situ of Right Upper Limb, Including Shoulder"
+C127930,Melanoma Antigen Preferentially Expressed in Tumors
+C193225,mCode Melanoma In-Situ Disorder Value Set
+C11658,Montanide ISA-51/Peptide 946 melanoma vaccine/Tetanus peptide melanoma vaccine
+C194146,"Malignant Melanoma of Right Upper Eyelid, Including Canthus"
+C194147,"Malignant Melanoma of Right Lower Eyelid, Including Canthus"
+C194165,"Malignant Melanoma of Left Lower Limb, Including Hip"
+C2469,Peptide 946-Tetanus Peptide Conjugate Melanoma Vaccine/QS21
+C158832,Melanoma Related Only Event Occurred after Initial Treatment
+C48843,Cutaneous Melanoma pT1a TNM Finding v6
+C48854,Cutaneous Melanoma pNX TNM Finding v6
+C48866,Cutaneous Melanoma pM1 TNM Finding v6
+C48867,Cutaneous Melanoma pM1a TNM Finding v6
+C35783,Ciliary Body Mixed Epithelioid and Spindle Cell Melanoma
+C5580,Stage IV Uveal Melanoma AJCC v7
+C88137,Stage IIIA Uveal Melanoma AJCC v7
+C48841,Cutaneous Melanoma pTis TNM Finding v6 and v7
+C48863,Cutaneous Melanoma pN3 TNM Finding v6 and v7
+C104519,Melanoma-Associated Antigen 6
+C154473,Melanoma of Unknown Primary
+C38700,Melanoma Helper Peptide Vaccine
+C41053,Melanoma-Associated Antigen 12
+C194879,"Melanoma in Situ of Right Upper Eyelid, Including Canthus"
+C194882,"Melanoma in Situ of Left Upper Eyelid, Including Canthus"
+C194901,"Melanoma in Situ of Unspecified Lower Limb, Including Hip"
+C194902,"Melanoma in Situ of Right Lower Limb, Including Hip"
+C88642,Melanoma of the Conjunctiva cT(is) TNM Finding v7
+C88660,Melanoma of the Conjunctiva cN0a (Biopsy) TNM Finding v7
+C9096,Stage IV Cutaneous Melanoma AJCC v6 and v7
+C16662,Harding-Passey Malignant Melanoma
+C118512,Cutaneous Melanoma In-Transit Metastasis
+C140603,Uveal Melanoma TNM Finding v8
+C178437,Female Genital Tract Mucosal Melanoma
+C205130,Metastatic Melanoma in the Skin
+C207624,Hereditary Melanoma with CDK4 Mutation
+C213510,Metastatic Melanoma in the Bone
+C2442,Canarypox-hIL-12 Melanoma Vaccine
+C38695,Multi-epitope Melanoma Peptide Vaccine
+C48639,Synthetic Melanoma-Associated Antigens Vaccine
+C6100,Choroid Intermediate Cell Type Melanoma
+C6119,Ciliary Body Epithelioid Cell Melanoma
+C63524,Regimen Used to Treat Melanoma
+C78861,Allogeneic Melanoma Vaccine AGI-101H
+C7989,Uveal Intermediate Cell Type Melanoma
+C140659,Choroidal and Ciliary Body Melanoma by AJCC v8 Stage
+C23098,Melanoma of the Mouse Nose and Paranasal Sinuses
+C140661,Stage II Choroidal and Ciliary Body Melanoma AJCC v8
+C140663,Stage IIB Choroidal and Ciliary Body Melanoma AJCC v8
+C140666,Stage IIIB Choroidal and Ciliary Body Melanoma AJCC v8
+C133168,Head and Neck Mucosal Melanoma TNM Finding v8
+C140617,Iris Melanoma Pathologic Primary Tumor TNM Finding v8
+C48895,Cutaneous Melanoma Pathologic Distant Metastasis TNM Finding v6
+C88380,Cutaneous Melanoma Pathologic Primary Tumor TNM Finding v7
+C89129,Head and Neck Mucosal Melanoma TNM Finding v7
+C204864,Melanoma in Chronically Sun-Exposed Skin
+C91380,Melanoma TRP2 CTL Epitope Vaccine SCIB1
+C136898,Cutaneous Melanoma cM1a(0) TNM Finding v8
+C136902,Cutaneous Melanoma cM1b(1) TNM Finding v8
+C136905,Cutaneous Melanoma cM1c(1) TNM Finding v8
+C136926,Cutaneous Melanoma pM1a(1) TNM Finding v8
+C8784,Stage IV Acral Lentiginous Melanoma AJCC v6 and v7
+C194886,Melanoma in Situ of Right Ear and External Auricular Canal
+C88634,Melanoma of the Conjunctiva Pathologic Distant Metastasis TNM Finding v7
+C88711,Melanoma of the Uvea Pathologic Distant Metastasis TNM Finding v7
+C48791,Cutaneous Melanoma TNM Finding v6
+C214275,FACT-M Version 4 - Pain at My Melanoma or Surgical Site
+C194881,"Melanoma in Situ of Left Eyelid, Including Canthus"
+C194895,Melanoma in Situ of Other Part of Trunk
+C88617,Melanoma of the Conjunctiva pT0 TNM Finding v7
+C88623,Melanoma of the Conjunctiva pT1c TNM Finding v7
+C88631,Melanoma of the Conjunctiva pNX TNM Finding v7
+C88636,Melanoma of the Conjunctiva Clinical TNM Finding v7
+C88641,Melanoma of the Conjunctiva cT0 TNM Finding v7
+C88653,Melanoma of the Conjunctiva cT3a TNM Finding v7
+C88656,Melanoma of the Conjunctiva cT3d TNM Finding v7
+C88657,Melanoma of the Conjunctiva cT4 TNM Finding v7
+C88659,Melanoma of the Conjunctiva cNX TNM Finding v7
+C88662,Melanoma of the Conjunctiva cN1 TNM Finding v7
+C88675,Melanoma of the Iris pT1c TNM Finding v7
+C88676,Melanoma of the Iris pT2 TNM Finding v7
+C88678,Melanoma of the Iris pT3 TNM Finding v7
+C88679,Melanoma of the Iris pT3a TNM Finding v7
+C88720,Melanoma of the Uvea cM1 TNM Finding v7
+C88721,Melanoma of the Uvea cM1a TNM Finding v7
+C88723,Melanoma of the Uvea cM1c TNM Finding v7
+C154274,mRNA-based TriMix Melanoma Vaccine ECI-006
+C194154,Malignant Melanoma of Unspecified Part of Face
+C194888,Melanoma in Situ of Other and Unspecified Parts of Face
+C88615,Melanoma of the Conjunctiva Pathologic Primary Tumor TNM Finding v7
+C133172,Head and Neck Mucosal Melanoma cM1 TNM Finding v8
+C133181,Head and Neck Mucosal Melanoma pT4b TNM Finding v8
+C133183,Head and Neck Mucosal Melanoma pNX TNM Finding v8
+C133184,Head and Neck Mucosal Melanoma pN0 TNM Finding v8
+C140643,Choroidal and Ciliary Body Melanoma pT3b TNM Finding v8
+C194151,Malignant Melanoma of Unspecified Ear and External Auricular Canal
+C194153,Malignant Melanoma of Left Ear and External Auricular Canal
+C82350,Autologous NY-ESO-1-Melanoma-Specific CD8+ T-lymphocytes
+C89141,Head and Neck Mucosal Melanoma Clinical TNM Finding v7
+C88414,Stage I Cutaneous Melanoma AJCC v7
+C11655,Montanide ISA-51/Peptide 946 melanoma vaccine
+C87533,Stage IVA Head and Neck Mucosal Melanoma AJCC v7
+C87534,Stage IVB Head and Neck Mucosal Melanoma AJCC v7
+C116017,Melanoma-Associated Antigen Family A
+C171285,Locally Advanced Cutaneous Melanoma
+C213513,Temporal Bone Mucosal Melanoma
+C213952,Locally Advanced Uveal Melanoma
+C214940,Locally Advanced Acral Melanoma
+C214941,Locally Advanced Conjunctival Melanoma
+C215231,Unresectable Sinonasal Mucosal Melanoma
+C7986,Uveal Spindle Cell Melanoma
+C133171,Head and Neck Mucosal Melanoma cM0 TNM Finding v8
+C133180,Head and Neck Mucosal Melanoma pT4a TNM Finding v8
+C140636,Choroidal and Ciliary Body Melanoma pT2 TNM Finding v8
+C140649,Choroidal and Ciliary Body Melanoma pT4c TNM Finding v8
+C160698,Multiple Known Primary Tumors Present at Initial Melanoma Diagnosis
+C160700,Multiple Known Primary Tumors Unknown at Initial Melanoma Diagnosis
+C214244,Functional Assessment of Cancer Therapy-Melanoma Version 4 Questionnaire
+C88399,Cutaneous Melanoma Clinical Regional Lymph Nodes TNM Finding v7
+C136897,Cutaneous Melanoma cM1a TNM Finding v8
+C136914,Cutaneous Melanoma cN1c TNM Finding v8
+C136915,Cutaneous Melanoma cN2 TNM Finding v8
+C136917,Cutaneous Melanoma cN2c TNM Finding v8
+C136942,Cutaneous Melanoma pT1a TNM Finding v8
+C136945,Cutaneous Melanoma pT2a TNM Finding v8
+C136948,Cutaneous Melanoma pT3a TNM Finding v8
+C136950,Cutaneous Melanoma pT4 TNM Finding v8
+C136954,Cutaneous Melanoma pNX TNM Finding v8
+C62402,Signet Ring Melanoma Cell
+C88690,Melanoma of the Ciliary Body and Choroid pT1d TNM Finding v7
+C88694,Melanoma of the Ciliary Body and Choroid pT2c TNM Finding v7
+C137647,Clinical Stage 0 Cutaneous Melanoma AJCC v8
+C137655,Clinical Stage III Cutaneous Melanoma AJCC v8
+C137672,Pathologic Stage IIIB Cutaneous Melanoma AJCC v8
+C78862,Allogeneic Large Multivalent Immunogen Melanoma Vaccine LP2307
+C8783,Stage III Acral Lentiginous Melanoma AJCC v7
+C137649,Clinical Stage IA Cutaneous Melanoma AJCC v8
+C137650,Clinical Stage IB Cutaneous Melanoma AJCC v8
+C137652,Clinical Stage IIA Cutaneous Melanoma AJCC v8
+C137653,Clinical Stage IIB Cutaneous Melanoma AJCC v8
+C137667,Pathologic Stage IIA Cutaneous Melanoma AJCC v8
+C88686,Melanoma of the Ciliary Body and Choroid pT1 TNM Finding v7
+C88688,Melanoma of the Ciliary Body and Choroid pT1b TNM Finding v7
+C88692,Melanoma of the Ciliary Body and Choroid pT2a TNM Finding v7
+C88697,Melanoma of the Ciliary Body and Choroid pT3a TNM Finding v7
+C88703,Melanoma of the Ciliary Body and Choroid pT4b TNM Finding v7
+C88705,Melanoma of the Ciliary Body and Choroid pT4d TNM Finding v7
+C88706,Melanoma of the Ciliary Body and Choroid pT4e TNM Finding v7
+C111030,Uveal Melanoma by Gene Expression Profile
+C140567,Conjunctival Melanoma cT1c TNM Finding v8
+C140575,Conjunctival Melanoma cT3a TNM Finding v8
+C140580,Conjunctival Melanoma Pathologic TNM Finding v8
+C140602,Conjunctival Melanoma pN1 TNM Finding v8
+C140604,Uveal Melanoma Clinical TNM Finding v8
+C140608,Uveal Melanoma cM1a TNM Finding v8
+C140609,Uveal Melanoma cM1b TNM Finding v8
+C140610,Uveal Melanoma cM1c TNM Finding v8
+C140613,Uveal Melanoma pM1 TNM Finding v8
+C140618,Iris Melanoma pT1 TNM Finding v8
+C140622,Iris Melanoma pT2 TNM Finding v8
+C140626,Iris Melanoma pT3 TNM Finding v8
+C140654,Uveal Melanoma pN1a TNM Finding v8
+C194157,Malignant Melanoma of Scalp and Neck
+C205131,Metastatic Melanoma in the Lymph Nodes
+C6118,Ciliary Body Intermediate Cell Type Melanoma
+C88386,Cutaneous Melanoma pNX TNM Finding v7
+C88390,Cutaneous Melanoma pN2 TNM Finding v7
+C88395,Cutaneous Melanoma pM1 TNM Finding v7
+C88401,Cutaneous Melanoma cN0 TNM Finding v7
+C88403,Cutaneous Melanoma cN2c TNM Finding v7
+C88406,Cutaneous Melanoma cM0 TNM Finding v7
+C9090,Medium/Large Size Posterior Uveal Melanoma
+C91231,Cutaneous Melanoma by AJCC v7 Stage
+C112003,Neoantigen-based Melanoma-Poly-ICLC Vaccine
+C7916,Stage I Cutaneous Melanoma AJCC v6
+C194903,"Melanoma in Situ of Left Lower Limb, Including Hip"
+C88620,Melanoma of the Conjunctiva pT(is) TNM Finding v7
+C206659,Melanoma Biomarker Reporting CAP Synoptic Pathology Report
+C88613,Melanoma of the Conjunctiva TNM Finding v7
+C155867,Melanoma Inhibitory Activity Protein 2
+C48376,Autologous Dendritic Cell-Allogeneic Melanoma Tumor Cell Lysate Vaccine
+C140561,Conjunctival Melanoma Clinical Primary Tumor TNM Finding v8
+C140605,Uveal Melanoma Clinical Distant Metastasis TNM Finding v8
+C140612,Uveal Melanoma Pathologic Distant Metastasis TNM Finding v8
+C194160,"Malignant Melanoma of Unspecified Upper Limb, Including Shoulder"
+C194163,"Malignant Melanoma of Unspecified Lower Limb, Including Hip"
+C48894,Cutaneous Melanoma Pathologic Primary Tumor TNM Finding v6
+C88394,Cutaneous Melanoma Pathologic Distant Metastasis TNM Finding v7
+C88405,Cutaneous Melanoma Clinical Distant Metastasis TNM Finding v7
+C90543,DCR Ligand-Bearing Liposome-Encapsulated Melanoma Antigens Vaccine
+C11656,Montanide ISA-51/Peptide 946-tetanus peptide conjugate melanoma vaccine
+C184074,FACIT-Searchable Item Library Adult Version - I Have Swelling at My Melanoma Site
+C48638,Recombinant Vaccinia-Multiepitope Melanoma Peptides-B7.1-B7.2 Vaccine
+C214291,FACT-M Version 4 - Have Swelling at My Melanoma Site
+C131208,Survival Associated Mitochondrial Melanoma Specific Oncogenic Non-Coding RNA
+C158834,Primary Site of New Non-Melanoma Tumor Event Question
+C111900,Autologous Melanoma Lysate/NY-ESO-1-pulsed Autologous Dendritic Cell Vaccine
+C133175,Head and Neck Mucosal Melanoma Pathologic Distant Metastasis TNM Finding v8
+C89142,Head and Neck Mucosal Melanoma Clinical Distant Metastasis TNM Finding v7
+C136904,Cutaneous Melanoma cM1c(0) TNM Finding v8
+C136935,Cutaneous Melanoma pM1d(0) TNM Finding v8
+C137657,Cutaneous Melanoma by AJCC v8 Pathologic Stage
+C8782,Stage II Acral Lentiginous Melanoma AJCC v6 and v7
+C8787,Stage II Lentigo Maligna Melanoma AJCC v6 and v7
+C194885,Melanoma in Situ of Unspecified Ear and External Auricular Canal
+C48613,Melanoma Arising in Congenital Melanocytic Nevus
+C23062,Melanoma of the Mouse Oral Cavity
+C158831,Were Subsequent Known Primary Melanoma(s) Found During the Follow-Up Question
+C133170,Head and Neck Mucosal Melanoma Clinical Distant Metastasis TNM Finding v8
+C133177,Head and Neck Mucosal Melanoma Pathologic Primary Tumor TNM Finding v8
+C194896,"Melanoma in Situ of Upper Limb, Including Shoulder"
+C88633,Melanoma of the Conjunctiva pN1 TNM Finding v7
+C88643,Melanoma of the Conjunctiva cT1a TNM Finding v7
+C88645,Melanoma of the Conjunctiva cT1c TNM Finding v7
+C88648,Melanoma of the Conjunctiva cT2a TNM Finding v7
+C88671,Melanoma of the Iris pT0 TNM Finding v7
+C88674,Melanoma of the Iris pT1b TNM Finding v7
+C88681,Melanoma of the Iris pT4a TNM Finding v7
+C88682,Melanoma of the Iris pT4b TNM Finding v7
+C88719,Melanoma of the Uvea cM0 TNM Finding v7
+C37828,Melanoma Helper Peptide Vaccine/Montanide ISA-51/Sargramostim
+C48859,Cutaneous Melanoma pN2 TNM Finding v6
+C5579,Stage III Uveal Melanoma AJCC v7
+C88138,Stage IIIB Uveal Melanoma AJCC v7
+C27742,Stage IIB Cutaneous Melanoma AJCC v6 and v7
+C48840,Cutaneous Melanoma pT0 TNM Finding v6 and v7
+C48845,Cutaneous Melanoma pT2 TNM Finding v6 and v7
+C48847,Cutaneous Melanoma pT2b TNM Finding v6 and v7
+C48849,Cutaneous Melanoma pT3a TNM Finding v6 and v7
+C48850,Cutaneous Melanoma pT3b TNM Finding v6 and v7
+C48852,Cutaneous Melanoma pT4a TNM Finding v6 and v7
+C48853,Cutaneous Melanoma pT4b TNM Finding v6 and v7
+C133169,Head and Neck Mucosal Melanoma Clinical TNM Finding v8
+C133178,Head and Neck Mucosal Melanoma pT3 TNM Finding v8
+C133179,Head and Neck Mucosal Melanoma pT4 TNM Finding v8
+C133186,Head and Neck Mucosal Melanoma by AJCC v7 Stage
+C140599,Conjunctival Melanoma Pathologic Regional Lymph Nodes TNM Finding v8
+C140632,Choroidal and Ciliary Body Melanoma pT1a TNM Finding v8
+C140634,Choroidal and Ciliary Body Melanoma pT1c TNM Finding v8
+C140638,Choroidal and Ciliary Body Melanoma pT2b TNM Finding v8
+C140640,Choroidal and Ciliary Body Melanoma pT2d TNM Finding v8
+C140642,Choroidal and Ciliary Body Melanoma pT3a TNM Finding v8
+C140644,Choroidal and Ciliary Body Melanoma pT3c TNM Finding v8
+C140645,Choroidal and Ciliary Body Melanoma pT3d TNM Finding v8
+C140648,Choroidal and Ciliary Body Melanoma pT4b TNM Finding v8
+C140651,Choroidal and Ciliary Body Melanoma pT4e TNM Finding v8
+C140652,Uveal Melanoma Pathologic Regional Lymph Nodes TNM Finding v8
+C194152,Malignant Melanoma of Right Ear and External Auricular Canal
+C89144,Head and Neck Mucosal Melanoma cM1 TNM Finding v7
+C90572,Autologous Melanoma Lysate/KLH-Pulsed Autologous Dendritic Cell Vaccine
+C194148,"Malignant Melanoma of Left Eyelid, Including Canthus"
+C213202,Conjunctival Mixed Epithelioid and Spindle Cell Melanoma
+C2467,Peptide 946-Tetanus Peptide Conjugate Melanoma Vaccine
+C6864,Ciliary Body Spindle Cell Type A Melanoma
+C153515,6 Melanoma Helper Peptide Vaccine
+C157534,CPTAC Uveal Melanoma Baseline Form
+C159409,Margin Uninvolved by Invasive Melanoma
+C205132,Metastatic Melanoma in the Viscera
+C214939,Locally Advanced Unresectable Acral Melanoma
+C215392,Metastatic Melanoma in the Heart
+C4238,Type A Spindle Cell Melanoma
+C6101,Iris Intermediate Cell Type Melanoma
+C88378,Cutaneous Melanoma TNM Finding v7
+C90560,Autologous TriMix-DC Melanoma Vaccine
+C9089,Small Size Posterior Uveal Melanoma
+C11354,Peptide 946 Melanoma Vaccine/QS21
+C133182,Head and Neck Mucosal Melanoma Pathologic Regional Lymph Nodes TNM Finding v8
+C206658,"Invasive Melanoma of The Skin, Excision, Re-Excision CAP Synoptic Pathology Report"
+C89135,Head and Neck Mucosal Melanoma Pathologic Regional Lymph Nodes TNM Finding v7
+C88658,Melanoma of the Conjunctiva Clinical Regional Lymph Nodes TNM Finding v7
+C88687,Melanoma of the Ciliary Body and Choroid pT1a TNM Finding v7
+C88693,Melanoma of the Ciliary Body and Choroid pT2b TNM Finding v7
+C88696,Melanoma of the Ciliary Body and Choroid pT3 TNM Finding v7
+C88699,Melanoma of the Ciliary Body and Choroid pT3c TNM Finding v7
+C88700,Melanoma of the Ciliary Body and Choroid pT3d TNM Finding v7
+C88701,Melanoma of the Ciliary Body and Choroid pT4 TNM Finding v7
+C11662,gp100 Antigen/Montanide ISA-51/Sargramostim/Tetanus Peptide Melanoma Vaccine/Tyrosinase Peptide
+C124236,Membrane-Associated Transporter Protein
+C136894,Cutaneous Melanoma Clinical Distant Metastasis TNM Finding v8
+C136922,Cutaneous Melanoma Pathologic Distant Metastasis TNM Finding v8
+C158630,Did the Individual have Multiple Known Primary Tumors at Initial Melanoma Diagnosis Question
+C160741,Subsequent Known Primary Melanoma(s) Found During the Follow-Up
+C194897,"Melanoma in Situ of Unspecified Upper Limb, Including Shoulder"
+C125145,Have Pain at Melanoma Site Question
+C86049,Stage IIIA Cutaneous Melanoma AJCC v7
+C98282,Allogeneic GM-CSF-secreting Lethally Irradiated Whole Melanoma Cell Vaccine
+C1618,BAGE Tumor Antigen
+C140662,Stage IIA Choroidal and Ciliary Body Melanoma AJCC v8
+C140583,Conjunctival Melanoma Pathologic Primary Tumor TNM Finding v8
+C194150,"Malignant Melanoma of Left Lower Eyelid, Including Canthus"
+C194161,"Malignant Melanoma of Right Upper Limb, Including Shoulder"
+C90571,Autologous Melanoma Lysate-Pulsed Autologous Dendritic Cell Vaccine
+C86034,Stage IIC Cutaneous Melanoma AJCC v6 and v7
+C98709,Experimental Organism Benign Melanocytoma
+C136918,Cutaneous Melanoma cN3 TNM Finding v8
+C136921,Cutaneous Melanoma Pathologic TNM Finding v8
+C136939,Cutaneous Melanoma pT0 TNM Finding v8
+C136943,Cutaneous Melanoma pT1b TNM Finding v8
+C136947,Cutaneous Melanoma pT3 TNM Finding v8
+C136957,Cutaneous Melanoma pN1a TNM Finding v8
+C136960,Cutaneous Melanoma pN2a TNM Finding v8
+C136961,Cutaneous Melanoma pN2c TNM Finding v8
+C37509,Montanide ISA-51/Multi-Epitope Melanoma Peptide Vaccine/Sargramostim/Tetanus Peptide Melanoma Vaccine
+C137670,Pathologic Stage III Cutaneous Melanoma AJCC v8
+C137673,Pathologic Stage IIIC Cutaneous Melanoma AJCC v8
+C8788,Stage III Lentigo Maligna Melanoma AJCC v7
+C137654,Clinical Stage IIC Cutaneous Melanoma AJCC v8
+C137656,Clinical Stage IV Cutaneous Melanoma AJCC v8
+C137666,Pathologic Stage II Cutaneous Melanoma AJCC v8
+C137669,Pathologic Stage IIC Cutaneous Melanoma AJCC v8
+C137671,Pathologic Stage IIIA Cutaneous Melanoma AJCC v8
+C137675,Pathologic Stage IIID Cutaneous Melanoma AJCC v8
+C89139,Head and Neck Mucosal Melanoma Pathologic Distant Metastasis TNM Finding v7
+C103862,Allogeneic Irradiated Melanoma Cell Vaccine CSF470
+C140560,Conjunctival Melanoma cM1 TNM Finding v8
+C140565,Conjunctival Melanoma cT1a TNM Finding v8
+C140570,Conjunctival Melanoma cT2a TNM Finding v8
+C140574,Conjunctival Melanoma cT3 TNM Finding v8
+C140579,Conjunctival Melanoma cT4 TNM Finding v8
+C140592,Conjunctival Melanoma pT2b TNM Finding v8
+C140596,Conjunctival Melanoma pT3c TNM Finding v8
+C140619,Iris Melanoma pT1a TNM Finding v8
+C140624,Iris Melanoma pT2b TNM Finding v8
+C140627,Iris Melanoma pT4 TNM Finding v8
+C140628,Iris Melanoma pT4a TNM Finding v8
+C48896,Cutaneous Melanoma Clinical TNM Finding v6
+C88384,Cutaneous Melanoma pT1b TNM Finding v7
+C88387,Cutaneous Melanoma pN1 TNM Finding v7
+C88389,Cutaneous Melanoma pN1b TNM Finding v7
+C88407,Cutaneous Melanoma cM1 TNM Finding v7
+C90514,Cutaneous Melanoma by AJCC v6 Stage
+C194887,Melanoma in Situ of Left Ear and External Auricular Canal
+C88661,Melanoma of the Conjunctiva cN0b (No Biopsy) TNM Finding v7
+C88663,Melanoma of the Conjunctiva Clinical Distant Metastasis TNM Finding v7
+C88668,Melanoma of the Uvea Pathologic Primary Tumor TNM Finding v7
+C194891,Melanoma in Situ of Scalp and Neck
+C33992,Melanoma Antigen Recognized by T-Cells 1
+C98124,MIA Gene
+C26083,Chondroitin Sulfate Proteoglycan 4
+C128489,HLA-A2-restricted Melanoma-specific Peptides Vaccine GRN-1201
+C133173,Head and Neck Mucosal Melanoma Pathologic TNM Finding v8
+C140637,Choroidal and Ciliary Body Melanoma pT2a TNM Finding v8
+C140639,Choroidal and Ciliary Body Melanoma pT2c TNM Finding v8
+C140641,Choroidal and Ciliary Body Melanoma pT3 TNM Finding v8
+C140647,Choroidal and Ciliary Body Melanoma pT4a TNM Finding v8
+C160699,Multiple Known Primary Tumors Absent at Initial Melanoma Diagnosis
+C48892,Cutaneous Melanoma Pathologic Regional Lymph Nodes TNM Finding v6
+C89130,Head and Neck Mucosal Melanoma Pathologic TNM Finding v7
+C89136,Head and Neck Mucosal Melanoma pNX TNM Finding v7
+C89140,Head and Neck Mucosal Melanoma pM1 TNM Finding v7
+C87532,Stage III Head and Neck Mucosal Melanoma AJCC v7
+C94814,Clark Level III
+C3745,Clear Cell Sarcoma of Soft Tissue
+C184073,FACIT-Searchable Item Library Adult Version - Pain at My Melanoma/Surgical Site
+C21392,Interferon-Inducible Protein AIM2
+C20524,Leukemia Inhibitory Factor
+C54308,MCAM wt Allele
+C213931,CDISC Questionnaire Functional Assessment of Cancer Therapy-Melanoma Version 4 Test Name Terminology
+C88684,Melanoma of the Ciliary Body and Choroid pTX TNM Finding v7
+C88685,Melanoma of the Ciliary Body and Choroid pT0 TNM Finding v7
+C88707,Melanoma of the Uvea Pathologic Regional Lymph Nodes TNM Finding v7
+C88689,Melanoma of the Ciliary Body and Choroid pT1c TNM Finding v7
+C88695,Melanoma of the Ciliary Body and Choroid pT2d TNM Finding v7
+C88698,Melanoma of the Ciliary Body and Choroid pT3b TNM Finding v7
+C88704,Melanoma of the Ciliary Body and Choroid pT4c TNM Finding v7
+C136929,Cutaneous Melanoma pM1b(1) TNM Finding v8
+C137646,Cutaneous Melanoma by AJCC v8 Clinical Stage
+C104492,BAGE Gene
+C94816,Clark Level V
+C21390,Beta/Gamma Crystallin Domain-Containing Protein 1
+C4914,Skin Carcinoma
+C8789,Stage IV Lentigo Maligna Melanoma AJCC v6 and v7
+C119720,IFIH1 wt Allele
+C150681,MAGEA12 Positive
+C175393,MAGEA1 Positive
+C20475,C-X-C Motif Chemokine 3
+C194877,"Melanoma in Situ of Unspecified Eyelid, Including Canthus"
+C194889,Melanoma in Situ of Unspecified Part of Face
+C194894,Melanoma in Situ of Breast (Skin) (Soft Tissue)
+C194900,"Melanoma in Situ of Lower Limb, Including Hip"
+C88614,Melanoma of the Conjunctiva Pathologic TNM Finding v7
+C88621,Melanoma of the Conjunctiva pT1a TNM Finding v7
+C88644,Melanoma of the Conjunctiva cT1b TNM Finding v7
+C88646,Melanoma of the Conjunctiva cT1d TNM Finding v7
+C88649,Melanoma of the Conjunctiva cT2b TNM Finding v7
+C88652,Melanoma of the Conjunctiva cT3 TNM Finding v7
+C88655,Melanoma of the Conjunctiva cT3c TNM Finding v7
+C88664,Melanoma of the Conjunctiva cM0 TNM Finding v7
+C88665,Melanoma of the Conjunctiva cM1 TNM Finding v7
+C88667,Melanoma of the Uvea Pathologic TNM Finding v7
+C88709,Melanoma of the Uvea pN0 TNM Finding v7
+C88712,Melanoma of the Uvea pM1 TNM Finding v7
+C88722,Melanoma of the Uvea cM1b TNM Finding v7
+C206657,"Invasive Melanoma of The Skin, Biopsy CAP Synoptic Pathology Report"
+C194156,Malignant Melanoma of Other Parts of Face
+C194159,Malignant Melanoma of Other Part of Trunk
+C135574,MAGEA6 Positive
+C104493,BAGE wt Allele
+C221404,CDKN2A-Related Tumor Predisposition Syndrome
+C119721,Interferon-Induced Helicase C Domain-Containing Protein 1
+C215235,MAGEL2 wt Allele
+C50932,IL24 wt Allele
+C21391,AIM2 Gene
+C158793,Type of New Melanoma Related Tumor Event Question
+C28613,Interleukin-19
+C41052,MAGEA12 Gene
+C54321,CRYBG1 wt Allele
+C136937,Cutaneous Melanoma Pathologic Primary Tumor TNM Finding v8
+C160742,Subsequent Known Primary Melanoma(s) Not Found During the Follow-Up
+C84755,hTERT/Survivin/Melanoma Tumor Cell-Derived mRNA-Transfected Dendritic Cell Vaccine
+C88683,Melanoma of the Ciliary Body and Choroid Pathologic Primary Tumor TNM Finding v7
+C194883,"Melanoma in Situ of Left Lower Eyelid, Including Canthus"
+C194899,"Melanoma in Situ of Left Upper Limb, Including Shoulder"
+C62342,Melanoma Cell with Large Nucleus and Abundant Pale Cytoplasm
+C118893,HMB-45
+C141404,SLC45A2 Positive
+C104525,MAGEC1 wt Allele
+C24570,MAGED1 Gene
+C2920,Malignant Skin Neoplasm
+C104512,MAGEA4 Gene
+C133814,PRAME Positive
+C49763,CXCL1 wt Allele
+C91336,MAGEA11 Gene
+C138074,GPNMB Positive
+C140660,Stage I Choroidal and Ciliary Body Melanoma AJCC v8
+C140664,Stage III Choroidal and Ciliary Body Melanoma AJCC v8
+C140665,Stage IIIA Choroidal and Ciliary Body Melanoma AJCC v8
+C140667,Stage IIIC Choroidal and Ciliary Body Melanoma AJCC v8
+C140668,Stage IV Choroidal and Ciliary Body Melanoma AJCC v8
+C140558,Conjunctival Melanoma Clinical Distant Metastasis TNM Finding v8
+C140581,Conjunctival Melanoma Pathologic Distant Metastasis TNM Finding v8
+C194149,"Malignant Melanoma of Left Upper Eyelid, Including Canthus"
+C194162,"Malignant Melanoma of Left Upper Limb, Including Shoulder"
+C194164,"Malignant Melanoma of Right Lower Limb, Including Hip"
+C11494,Interferon Alfa/Interleukin-2 Liposome/Polyvalent Melanoma Vaccine
+C11695,gp100 Antigen/Tetanus Peptide Melanoma Vaccine/Tyrosinase Peptide
+C28724,MART-1 Antigen
+C43372,Lentigo Maligna
+C94812,Clark Level I
+C94815,Clark Level IV
+C160743,Unknown if Subsequent Known Primary Melanoma(s) Found During the Follow-Up
+C107425,MAGEB2 wt Allele
+C54307,MAGEA3 wt Allele
+C150425,HMB45-Positive Cells Present
+C202426,MART-1 Antigen Measurement
+C136909,Cutaneous Melanoma Clinical Regional Lymph Nodes TNM Finding v8
+C136953,Cutaneous Melanoma Pathologic Regional Lymph Nodes TNM Finding v8
+C88637,Melanoma of the Conjunctiva Clinical Primary Tumor TNM Finding v7
+C88669,Melanoma of the Iris Pathologic Primary Tumor TNM Finding v7
+C88718,Melanoma of the Uvea Clinical Distant Metastasis TNM Finding v7
+C16167,gp100 Human Melanoma Peptide Vaccine with Incomplete Freund's Adjuvant
+C155866,MIA2 wt Allele
+C106354,Syntenin-1
+C18271,"5,6-Dihydroxyindole-2-Carboxylic Acid Oxidase"
+C107135,NDN wt Allele
+C107169,Allogeneic HLA-A2/4-1BB ligand-expressing Melanoma Vaccine
+C133176,Head and Neck Mucosal Melanoma pM1 TNM Finding v8
+C133185,Head and Neck Mucosal Melanoma pN1 TNM Finding v8
+C140631,Choroidal and Ciliary Body Melanoma pT1 TNM Finding v8
+C140633,Choroidal and Ciliary Body Melanoma pT1b TNM Finding v8
+C140635,Choroidal and Ciliary Body Melanoma pT1d TNM Finding v8
+C140646,Choroidal and Ciliary Body Melanoma pT4 TNM Finding v8
+C140650,Choroidal and Ciliary Body Melanoma pT4d TNM Finding v8
+C88385,Cutaneous Melanoma Pathologic Regional Lymph Nodes TNM Finding v7
+C89132,Head and Neck Mucosal Melanoma pT3 TNM Finding v7
+C89133,Head and Neck Mucosal Melanoma pT4a TNM Finding v7
+C89134,Head and Neck Mucosal Melanoma pT4b TNM Finding v7
+C89137,Head and Neck Mucosal Melanoma pN0 TNM Finding v7
+C89138,Head and Neck Mucosal Melanoma pN1 TNM Finding v7
+C89143,Head and Neck Mucosal Melanoma cM0 TNM Finding v7
+C37508,Montanide ISA-51/Multi-Epitope Melanoma Peptide Vaccine/Sargramostim
+C87535,Stage IVC Head and Neck Mucosal Melanoma AJCC v7
+C134491,MLANA Positive
+C95715,Autologous CD8 Positive PBL Sensitized to Drosophila Cell-Presented Melanoma Peptides
+C88630,Melanoma of the Conjunctiva Pathologic Regional Lymph Nodes TNM Finding v7
+C88691,Melanoma of the Ciliary Body and Choroid pT2 TNM Finding v7
+C88702,Melanoma of the Ciliary Body and Choroid pT4a TNM Finding v7
+C104517,MAGEA6 Gene
+C104527,MAGEC2 Gene
+C213943,Functional Assessment of Cancer Therapy-Melanoma Version 4 Questionnaire Question
+C131619,MAGEA10 Positive
+C38724,Recombinant MAGE-3.1 Antigen
+C162804,Uzatresgene Autoleucel
+C106593,CD63 Antigen
+C1157,Recombinant GRO1 Protein
+C178520,TYRP1 Positive
+C20951,Baculoviral IAP Repeat-Containing Protein 7
+C41037,Melanocyte Protein PMEL
+C52436,CSPG4 wt Allele
+C104513,MAGEA4 wt Allele
+C104518,MAGEA6 wt Allele
+C94813,Clark Level II
+C27007,Cutaneous Spitz Nevus
+C54324,AIM2 wt Allele
+C49511,CDKN2A wt Allele
+C140630,Choroidal and Ciliary Body Melanoma Pathologic Primary Tumor TNM Finding v8
+C158640,Number of Known Primaries at the Time of Initial Melanoma Diagnosis
+C214245,Functional Assessment of Cancer Therapy-Melanoma Non-Surgery Version 4 Questionnaire
+C89131,Head and Neck Mucosal Melanoma Pathologic Primary Tumor TNM Finding v7
+C127929,PRAME wt Allele
+C54313,MLANA wt Allele
+C115157,MAGEA3 Antibody
+C91337,MAGEA11 wt Allele
+C141361,MAGEC1 Positive
+C147078,MAGEA4 Positive
+C17783,Cyclin-Dependent Kinase Inhibitor 1
+C20474,C-X-C Motif Chemokine 2
+C21261,MCAM Gene
+C2560,Recombinant Macrophage Inflammatory Protein-2 Beta
+C213932,CDISC Questionnaire Functional Assessment of Cancer Therapy-Melanoma Version 4 Test Code Terminology
+C18460,CXCL1 Gene
+C104499,MAGEA2 Gene
+C107423,MAGEB2 Gene
+C122905,NGFI-A-Binding Protein 2
+C168793,Melanotransferrin
+C17313,Cell Surface Glycoprotein MUC18
+C113115,GPNMB wt Allele
+C17799,Prolyl Endopeptidase FAP
+C104528,MAGEC2 wt Allele
+C50926,IL19 wt Allele
+C24316,CSPG4 Gene
+C43268,HMB-45-Positive Neoplastic Cells Present
+C20471,Growth-Regulated Alpha Protein
+C21141,Metastasis-Suppressor KiSS-1
+C131207,SAMMSON wt Allele
+C124263,MAGEA1 Antibody
+C135575,MAGEA3 Positive
+C98125,MIA wt Allele
+C128952,Chemokine (C-X-C Motif) Ligand 1 Measurement
+C21524,Interleukin-24
+C2767,gp100:280-288 Peptide Vaccine
+C164204,Elevated LIF
+C104509,MAGEA1 Gene
+C104522,MAGEB18 wt Allele
+C104496,MAGEA10 Gene
+C17951,MAGEA3 Gene
+C168792,MELTF wt Allele
+C125144,FACT-M Questionnaire
+C127928,PRAME Gene
+C104497,MAGEA10 wt Allele
+C49385,MAGED1 wt Allele
+C54305,MAGEA12 wt Allele
+C6891,Meningeal Melanomatosis
+C111806,MART1 Antibody
+C100054,Conjunctival Melanocytic Intraepithelial Lesion
+C103830,Recombinant Human Hsp110-gp100 Chaperone Complex Vaccine
+C113174,Autologous CT7/MAGE-A3/WT1 mRNA-Electroporated Langerhans-Type Dendritic Cells
+C114978,MAGE-A4-specific TCR Gene-transduced Autologous T Lymphocytes TBI-1201
+C117181,LOX IMVI
+C117192,UACC-62
+C118776,Ingenol Mebutate Gel
+C128892,Type-1 Polarized Dendritic Cell-induced Antigen-specific Autologous Cytotoxic T Lymphocytes
+C12947,Sentinel Lymph Node
+C1347,Azimexon
+C136825,Cutaneous Spitz Melanocytoma
+C136831,Skin Cancer TNM Finding v8
+C137951,Belzupacap Sarotalocan
+C140075,Penile Cancer by AJCC v8 Stage
+C148411,T2d TNM Finding
+C1543,Peptide 946
+C154325,Dabrafenib/Trametinib Regimen
+C159277,Macroscopic Satellite Nodule is Present
+C159992,Atezolizumab Regimen
+C160047,High-dose Ipilimumab Regimen
+C160062,Intralesional Interferon Alfa-2b Regimen
+C160074,Larotrectinib Regimen
+C160093,Nivolumab Regimen
+C160122,Temozolomide Regimen
+C160128,Topical Imiquimod Regimen
+C172063,Autologous Anti-CD20 CAR Transduced CD4/CD8 Enriched T-cells MB-CART20.1
+C172639,BAP1-Related Tumor Predisposition Syndrome
+C172999,MATCH Arm EAY131-H
+C173025,MATCH Arm EAY131-S2
+C173033,MATCH Arm EAY131-Z1A
+C174139,MAGE-A1-specific T Cell Receptor-transduced Autologous T-cells
+C174501,Choroid Nevus
+C174502,Uveal Nevus
+C179500,WT1/PRAME/Survivin-specific T-cells MANA-312
+C180908,Autologous Multiple Antigen-specific T-cells MASE-T
+C180910,Lenvatinib/Pembrolizumab Regimen
+C180955,Cervical Cancer TNM Finding v9
+C188298,T4e TNM Finding
+C188358,Autologous Anti-CD20CAR-CD28-4-1BB-CD3zeta T-lymphocytes MB-106
+C190696,GNAQ/GNA11 Antagonist DYP688
+C190828,Anti-GD2 scFv/Anti-DOTA scFv Fusion Protein GD2-SADA
+C1973,CancerVax
+C201067,Autologous Anti-MAGE-A1 TCR-engineered T-cells TSC-204-A0201
+C204790,Cutaneous Spitz Tumor
+C205069,Diffuse Meningeal Melanocytic Neoplasm
+C207662,Vulvar Cancer by AJCC v9 Stage
+C211619,PRAME-targeting TCR-engineered NK Cells
+C213091,Conjunctival WNT-Activated Deep Penetrating/Plexiform Melanocytoma (Nevus)
+C213204,Nivolumab and Recombinant Human Hyaluronidase Regimen
+C213503,CIC/MEGF8 Fusion Gene
+C214248,FACT-M Version 4 - I Have a Lack of Energy
+C214250,FACT-M Version 4 - Trouble Meeting Needs of Family
+C214254,FACT-M Version 4 - I Am Forced to Spend Time in Bed
+C214256,FACT-M Version 4 - Get Emotional Support From Family
+C214262,FACT-M Version 4 - I Feel Sad
+C214268,FACT-M Version 4 - I Am Able to Work
+C214276,FACT-M Version 4 - Noticed New Changes in My Skin
+C214287,FACT-M Version 4 - Feel Overwhelmed by My Condition
+C214297,FACT-M Version 4 - Feel Numbness at My Surgical Site
+C215032,Eyelid Melanocytic Neoplasm
+C21847,Unclassified Malignant Spindle Cell Neoplasm of the Mouse Skin
+C2212,MAGE-3 Peptide Vaccine
+C2214,Dendritic Cell-gp100-MART-1 Antigen Vaccine
+C222717,Nasopharyngeal Cancer TNM Finding v9
+C23026,Cytokeratin-8 Staining Method
+C2368,Monoclonal Antibody 14G2A
+C2376,GM2-KLH Vaccine
+C2409,Monoclonal Antibody Me1-14 F(ab')2
+C2426,Dendritic Cell-MART-1 Peptide Vaccine
+C2431,Iodine I 131 Monoclonal Antibody 3F8
+C2531,Vaccinia-Tyrosinase Vaccine
+C2761,gp100-Fowlpox Vaccine
+C2763,gp100: ES209-217(210M) Peptide
+C2773,MART-1 Adenovirus Vaccine
+C2775,MART-1:27-35 Peptide Vaccine
+C2807,Recombinant Fowlpox-Tyrosinase Vaccine
+C2818,Tyrosinase:206-214 Peptide
+C2820,Tyrosinase:368-376(370D) Peptide
+C29115,Imexon
+C29199,Monoclonal Antibody 48.7
+C29202,Monoclonal Antibody 8.2
+C29556,gp100 Peptide-sensitized Autologous T-cells (CD4+ and CD8+)
+C3074,Hairy Nevus
+C3436,Uveal Neoplasm
+C3694,Cutaneous Dysplastic Nevus
+C37450,NA17-A Antigen
+C37507,NY-ESO-1 Protein Vaccine Plus Montanide ISA-51 VG
+C38125,gp100-Reactive Autologous Tumor Infiltrating Lymphocyte
+C38135,Anti-gp100 TCR Retroviral Vector-Transduced Autologous TIL
+C38137,Anti-MART-1 TCR Retroviral Vector-Transduced Autologous TIL
+C38587,Autologous Anti-MART-1 F5 T-Cell Receptor Gene-Engineered Peripheral Blood Lymphocytes
+C39782,Ganglioside GD3
+C4234,Cutaneous Giant Congenital Nevus
+C4556,Iris Nevus
+C4800,Retinal Neoplasm
+C48368,Adenovector Encoding MDA7
+C48465,Fowlpox-NY-ESO-1 Vaccine
+C48631,gp100:614-622 Peptide
+C48706,N1 TNM Finding
+C48723,T1c TNM Finding
+C48827,Melanocyte-Stimulating Hormone Receptor
+C51263,PLK1 wt Allele
+C52084,MC1R wt Allele
+C60882,Recombinant Bispecific Single-Chain Antibody rM28
+C63402,Carboplatin/Paclitaxel Regimen
+C63667,Mofarotene
+C63785,CVD-Aldesleukin-Interferon Alfa-2b Regimen
+C72726,Ciglitazone
+C73556,ABCB5 wt Allele
+C7431,Malignant Ovarian Neoplasm
+C7482,Metastatic Malignant Neoplasm in the Gallbladder
+C77877,Murine TYRP2 Plasmid DNA Vaccine
+C78477,Topical Betulinic Acid
+C81853,MIRLET7B wt Allele
+C82171,MIR221 wt Allele
+C82886,DCT wt Allele
+C91702,Pegargiminase
+C94217,Anti-CTLA4 MoAb RNA-transfected Autologous Dendritic Cell Vaccine
+C96735,Recombinant B. pertussis Adenylate Cyclase Toxin-Tyrosinase A2 Epitope Vaccine
+C98181,SPRY4 Intronic Transcript 1
+C102753,Adenovirus Encoding Tyrosinase/MART-1/MAGEA6-transduced Autologous Dendritic Cell Vaccine
+C104500,MAGEA2 wt Allele
+C1106,Fotemustine
+C111026,Loops Forming Networks
+C115979,HLA-DP0401/0402-Restricted MAGE-A3-Reactive T Cell Receptor-transduced Autologous T Cells
+C117182,MALME-3M
+C117188,SK-MEL-2
+C126686,Autologous MAGE-A10-specific HLA-A2-restricted TCR c796 Gene-engineered Lymphocytes
+C131215,Montanide ISA-51 VG/KLH/NY-ESO-1/MART-1 Peptide Vaccine
+C133794,Anal Cancer by AJCC v8 Stage
+C137676,Stage IIID
+C139618,Vulvar Cancer by AJCC v8 Stage
+C139632,Vaginal Cancer TNM Finding v8
+C139657,Vaginal Cancer by AJCC v8 Stage
+C140044,Penile Cancer TNM Finding v8
+C140457,Urethral Cancer by AJCC v8 Stage
+C143094,CDH10 wt Allele
+C143097,CDH17 wt Allele
+C156136,Autologous PRAME-targeting TCR-modified T Cells MDG1011
+C159276,Satellite Lesion
+C160061,Intralesional BCG Regimen
+C160067,Ipilimumab Regimen
+C160108,Pembrolizumab Regimen
+C16125,High Dose Interferon Alpha 2a
+C161962,Dacarbazine/Dactinomycin Regimen
+C162624,Patient-derived WT1/PRAME/Survivin-specific Cytotoxic T-lymphocytes
+C165525,BAP1-Inactivated Melanocytoma
+C166968,Biropepimut-S
+C173427,Allogeneic Plasmacytoid Dendritic Cells Expressing Lung Tumor Antigens PDC*lung01
+C174500,Ciliary Body Nevus
+C181562,Cervical Cancer by AJCC v9 Stage
+C186508,Entrectinib Regimen
+C186513,Trametinib Regimen
+C198548,Tebentafusp Regimen
+C206172,MAGE-A4-specific T-cell Engager CDR404
+C206435,CRTC1-TRIM11 Cutaneous Tumor
+C207789,Anal Cancer by AJCC v9 Stage
+C208190,CD228-targeting Agent
+C214253,FACT-M Version 4 - I Feel Ill
+C214263,FACT-M Version 4 - Satisfied With How I Am Coping
+C214265,FACT-M Version 4 - I Feel Nervous
+C214277,FACT-M Version 4 - Worry Appearance Surgical Scars
+C214279,FACT-M Version 4 - Limit Physical Activity Because Condition
+C214286,FACT-M Version 4 - Limit My Social Activity
+C214288,FACT-M Version 4 - Isolate From Others Because Condition
+C214290,FACT-M Version 4 - I Feel Fatigued
+C214292,FACT-M Version 4 - Swelling as a Result of Surgery
+C214293,FACT-M Version 4 - Bothered by Amount of Swelling
+C214294,FACT-M Version 4 - Movement of Swollen Area Painful
+C214296,FACT-M Version 4 - Swelling Keeps Me From Wearing
+C214301,FACT-M Version 4 - Emotional Subscale Score
+C214302,FACT-M Version 4 - Functional Subscale Score
+C214307,FACT-M Version 4 - Total Score
+C215082,Anti-MAGE-A4/Anti-CD3 Bispecific Antibody RO7617991
+C221744,MBD4-Associated Neoplasia Syndrome
+C222250,Shelterin-Related Tumor Predisposition Syndrome
+C224049,Oropharyngeal (HPV-Associated) Carcinoma by AJCC v9 Stage
+C2384,Tyrosinase-KLH
+C2386,gp100 Antigen
+C25734,Breslow Thickness
+C2758,gp100 cDNA/Gold Complex
+C2760,gp100 and GM-CSF DNA/Gold Vaccine
+C2765,gp100:17-25 Peptide
+C2766,gp100:209-217 Peptide
+C2776,MART-1 Fowlpox Vaccine
+C2819,Tyrosinase:240-251(244S) Peptide
+C28725,Recombinant Tyrosinase-Related Protein-1
+C29068,gp100 Vaccinia Vaccine
+C29188,MAGE-3 Peptide (9-mer)
+C29205,Monoclonal Antibody 96.5
+C38119,ESO-1 Reactive Autologous Peripheral Blood Lymphocyte
+C38136,Anti-gp100 TCR Retroviral Vector-Transduced Autologous PBL
+C4766,Malignant Ciliary Body Neoplasm
+C48410,Mouse gp100 Plasmid DNA Vaccine
+C48633,HLA-B44-Restricted MAGE-3 Peptide
+C48708,N1b TNM Finding
+C48711,N2a TNM Finding
+C48731,T3c TNM Finding
+C49085,Tremelimumab
+C516,Ganglioside GM2
+C61088,MAGE-A3/HPV 16 Peptide Vaccine
+C64768,Vemurafenib
+C71535,Indoximod
+C731,Pentamidine
+C73557,ATP-Binding Cassette Sub-Family B Member 5
+C7379,Malignant Anal Neoplasm
+C78854,Dinaciclib
+C80056,Ioflubenzamide I-131
+C81756,MIR221 Gene
+C82172,MIR222 wt Allele
+C84873,Recombinant Human Anti-TGF-beta Monoclonal Antibody
+C90020,Anal Cancer TNM Finding v7
+C90570,HLA-A1-Binding MAGE-1/MAGE-3 Multipeptide-Pulsed Autologous Dendritic Cell Vaccine
+C91092,Anti-Melanin Monoclonal Antibody PTI-6D2
+C9305,Malignant Neoplasm
+C94216,GITRL RNA-transfected Autologous Dendritic Cell Vaccine
+C94218,Anti-CTLA4 MoAb RNA/GITRL RNA-transfected Autologous Dendritic Cell Vaccine
+C96953,Metastatic Malignant Neoplasm in the Extrahepatic Bile Ducts
+C98179,SPRY4-IT1 Gene
+C131206,SAMMSON Gene
+C22055,Mouse Meningeal Melanomatosis
+C104510,MAGEA1 wt Allele
+C101787,TIL 1383I T Cell Receptor-Transduced Autologous T Cells
+C104047,CTAG2 wt Allele
+C107166,pBCAR3 Phosphopeptide-tetanus Peptide Vaccine
+C11081,BOLD Regimen
+C111024,Presence of Extravascular Matrix Patterns
+C11571,GM2-KLH Vaccine/QS21
+C116862,MAGE-A3/12-specific TCR Gene-transduced Autologous PBLs
+C117183,M14
+C117226,MDA-N
+C120016,Lymph Node Gene Expression Signature
+C1269,TAG-72 Antigen
+C127125,NY-ESO-1/PRAME/MAGE-A3/WT-1 Peptide Vaccine
+C129313,Factor VII-targeting Immunoconjugate Protein ICON-1
+C132688,Lip and Oral Cavity Cancer TNM Finding v8
+C133762,Anal Cancer TNM Finding v8
+C135534,Autologous MAGE-A3/A6-specific TCR Gene-engineered Lymphocytes KITE-718
+C136283,Carboplatin/Nab-paclitaxel Regimen
+C136426,Anti-GD3 Antibody-drug Conjugate PF-06688992
+C1387,MAGE-1 Antigen
+C140089,CDKN2B-AS1 wt Allele
+C140513,Eyelid Carcinoma by AJCC v8 Stage
+C140527,Conjunctival Carcinoma TNM Finding v8
+C140883,Disease-specific Graded Prognostic Assessment
+C143040,CYSLTR2 wt Allele
+C148412,T3d TNM Finding
+C160017,Dabrafenib Regimen
+C160018,Dacarbazine Regimen
+C160045,High-dose Aldesleukin Regimen
+C160054,Imatinib Regimen
+C160060,Aldesleukin Intralesional Regimen
+C160063,Talimogene Laherparepvec Intralesional Regimen
+C160140,Vemurafenib Regimen
+C17231,Ultraviolet Radiation
+C175351,Zedenoleucel
+C175443,WT1-H/K-HELP-survivin-H/K-HELP-MAGE-A4-H / K-HELP-MUC1-22 Peptide-loaded Autologous Dendritic Cells
+C176772,Autologous Anti-CD20 CAR T-cells C-CAR066
+C177437,Anti-TYRP1/CD3 T-cell Engager RO7293583
+C180518,ALVAC gp100 Vaccine
+C180529,Autologous Anti-MART-1 F5 TCR Tumor Infiltrating Lymphocytes
+C186503,Encorafenib Regimen
+C186649,Circumscribed Meningeal Melanocytic Neoplasm
+C188684,MicroRNA Let-7b-5p
+C189867,Nivolumab/Relatlimab Regimen
+C1953,Recombinant Interferon Alfa-2b
+C198666,Ipilimumab/Nivolumab Followed by Nivolumab Regimen
+C204767,Lifileucel Regimen
+C208264,pT2d TNM Finding
+C213198,Dysplastic Nevus
+C214249,FACT-M Version 4 - I Have Nausea
+C214252,FACT-M Version 4 - Bothered by Treatment Side Effect
+C214255,FACT-M Version 4 - I Feel Close to My Friends
+C214257,FACT-M Version 4 - I Get Support From My Friends
+C214260,FACT-M Version 4 - I Feel Close to My Partner
+C214267,FACT-M Version 4 - Worry My Condition Will Get Worse
+C214284,FACT-M Version 4 - I Have Aches and Pains My Bones
+C214289,FACT-M Version 4 - Have Difficulty Thinking Clearly
+C214303,FACT-M Version 4 - Additional Concern Subscale Score
+C214306,FACT-M Version 4 - FACT-G Total Score
+C222756,Nasopharyngeal Carcinoma by AJCC v9 Stage
+C224017,Oropharyngeal (HPV-Associated) Cancer TNM Finding v9
+C224052,Oropharyngeal (HPV-Associated) Carcinoma by AJCC v9 Clinical Stage
+C23027,Cytokeratin-18 Staining Method
+C2401,Tyrosinase Peptide
+C2406,gp209-2M Antigen
+C2596,MAGE-12 Peptide Vaccine
+C26450,Monoclonal Antibody GD2 Anti-Idiotype Vaccine
+C26881,Solar Lentigo
+C2757,gp100 Adenovirus Vaccine
+C2762,gp100-Pulsed Peripheral Blood Mononuclear Cell
+C2768,gp100:44-59
+C2805,Recombinant Fowlpox-Mgp100 Vaccine
+C28055,Stage IVC
+C28549,Synchrovax SEM Plasmid DNA Vaccine
+C29203,Monoclonal Antibody 8.2 F(ab)
+C29204,Monoclonal Antibody 9.2.27 F(ab)
+C29349,Pentamidine Isethionate
+C29856,Thiouracil
+C3027,Esophageal Disorder
+C3142,Iris Neoplasm
+C3572,Malignant Spinal Cord Neoplasm
+C3814,Metastatic Malignant Neoplasm in the Leptomeninges
+C411,Dacarbazine
+C4585,Metastatic Malignant Neoplasm in the Spinal Cord
+C4767,Malignant Eye Neoplasm
+C47704,Riluzole
+C48634,HLA-B44-Restricted Tyrosinase Peptide
+C48712,N2b TNM Finding
+C49042,gp100:280-288(288V) Peptide Vaccine
+C49364,APAF1 wt Allele
+C51194,BRAF wt Allele
+C517,Ganciclovir
+C51978,Recombinant Vaccinia-Mgp100 Vaccine
+C61498,RFT5-dgA Immunotoxin IMTOX25
+C62598,CHP-NY-ESO-1 Peptide Vaccine IMF-001
+C63525,CVD Regimen
+C63546,Fresolimumab
+C67089,DNA Vector pPRA-PSM Vaccine
+C6970,Melanotic Schwannoma
+C7058,Melanocytic Neoplasm
+C73999,ALVAC-MART-1 Vaccine
+C7509,Metastatic Malignant Neoplasm in the Thyroid Gland
+C7584,Dysplastic Nevus Syndrome
+C78136,EGF A61G Allele
+C78478,Astuprotimut-R
+C80726,MIR222 Gene
+C8543,Metastatic Malignant Neoplasm in the Pancreas
+C89163,Penile Cancer TNM Finding v7
+C90569,HLA-A2-Binding TYR/MART-1/gp100 Multipeptide-Pulsed Autologous Dendritic Cell Vaccine
+C91384,Flanvotumab
+C91767,LLGL1 wt Allele
+C94208,Tebentafusp
+C94811,Clark Level Finding
+C95741,MELITAC 12.1 Peptide Vaccine
+C96041,Melan-A/MAGE-3.DP4 Peptide Vaccine
+C97035,MAGE-A3 Reactive T Cell Receptor-transduced Autologous T Cells
+C99114,TRP2 mRNA-electroporated Autologous Langerhans-type Dendritic Cell Vaccine
+C99129,AIM2(-1)/HT001(-1)/TAF1B(-1) Frameshift Peptide Vaccine
+C36114,Non-Melanomatous Lesion
+C111025,Extravascular Matrix Loops
+C111683,MART-1 Reactive CD8+ T-lymphocytes
+C116711,Autologous MAGE-A3-specific HLA-A*01-Restricted T Cell Receptor Gene Engineered Lymphocytes
+C116848,Anti-PRAME Immunotherapeutic GSK2302032A
+C117184,MDA-MB-435
+C117189,SK-MEL-28
+C118359,Endoresection
+C118367,NY-ESO-1/MAGE-A4/PRAME/Survivin/SSX2-specific Autologous Cytotoxic T Lymphocytes
+C122396,Tetravalent RNA-lipoplex Cancer Vaccine BNT111
+C123817,Donor-derived WT1/PRAME/NY-ESO-1/Survivin-specific T-lymphocytes
+C124054,Multi-glioblastoma-peptide-targeting Autologous Dendritic Cell Vaccine ICT-107
+C12984,Interval Lymph Node
+C131287,KLH/NY-ESO-1/MART-1 Peptide-pulsed Dendritic Cell Vaccine
+C132656,Cervical Lymph Nodes and Unknown Primary Tumors TNM Finding v8
+C132792,Nasopharyngeal Cancer TNM Finding v8
+C133024,Nasal Cavity and Paranasal Sinuses Cancer TNM Finding v8
+C133787,Anal Canal Cancer by AJCC v6 and v7 Stage
+C139590,Vulvar Cancer TNM Finding v8
+C140428,Urethral Cancer TNM Finding v8
+C140470,Eyelid Carcinoma TNM Finding v8
+C140884,Graded Prognostic Assessment Score
+C142814,Autologous Dendritic Cells Pulsed with MART-1 (26-35) Peptide
+C143033,APOBEC1 Complementation Factor
+C143079,S100A7 wt Allele
+C143091,PRPF40B wt Allele
+C159278,Microsatellitosis
+C159984,Nab-paclitaxel Regimen
+C160020,Dasatinib Regimen
+C160531,Cisplatin/Temozolomide Regimen
+C160804,Aldesleukin Regimen
+C160814,Talimogene Laherparepvec Regimen
+C165519,Microbiome SER-401
+C165704,Post-Radiation Atypical Vascular Lesion
+C175738,Afamitresgene Autoleucel
+C179275,Autologous MAGE-C2-specific HLA-A2-restricted TCR T-lymphocytes
+C179658,Fluorine F 18-PEG3-FPN
+C180517,Autologous Anti-gp100:154-162 TCR Tumor Infiltrating Lymphocytes
+C181945,Racial Melanosis
+C186474,Atezolizumab/Cobimetinib/Vemurafenib Regimen
+C186731,Oral Nevus
+C187047,Autologous PBMC-derived Engineered Leukocyte Immunostimulatory Cells-activated Effector Cells
+C189056,Anti-HLA-A2-MAGE-A4/Anti-CD3 Bispecific Antibody RO7444973
+C192209,Tonobafusp Alfa
+C192671,Hereditary Tumor Syndrome Associated with Homologous Recombination Pathway Mutations
+C1939,GAGE
+C198668,Low-dose Ipilimumab/Pembrolizumab Regimen
+C199480,Lead Pb 212-VMT01
+C201132,Autologous Anti-MAGE-A1 TCR-engineered T-cells TSC-204-C0702
+C203760,Dabrafenib/Pembrolizumab/Trametinib Regimen
+C205057,Uveal Melanocytic Neoplasm
+C207759,Anal Cancer TNM Finding v9
+C211840,Extrascleral Extension Present Indicator
+C213094,Benign Epithelial Melanosis of the Conjunctiva
+C214251,FACT-M Version 4 - I Have Pain
+C214266,FACT-M Version 4 - I Worry About Dying
+C214269,FACT-M Version 4 - My Work Is Fulfilling
+C214270,FACT-M Version 4 - I Am Able to Enjoy Life
+C214273,FACT-M Version 4 - Enjoy Things I Usually Do for Fun
+C214278,FACT-M Version 4 - I Have Been Short of Breath
+C214280,FACT-M Version 4 - I Get Headaches
+C214295,FACT-M Version 4 - Swelling Keeps From Doing Things
+C214298,FACT-M Version 4 - Good Range of Movement in Arm or Leg
+C214304,FACT-M Version 4 - Additional Concern Surgery Score
+C214305,FACT-M Version 4 - Trial Outcome Index Score
+C215289,Anzutresgene Autoleucel
+C222251,POT1 Tumor Predisposition Syndrome
+C222544,Berahyaluronidase Alfa and Pembrolizumab Regimen
+C224060,Oropharyngeal (HPV-Associated) Carcinoma by AJCC v9 Pathologic Stage
+C224068,Salivary Gland Cancer TNM Finding v9
+C224096,Salivary Gland Cancer by AJCC v9 Stage
+C224702,T1d TNM Finding
+C2400,GD2-KLH Vaccine
+C2436,Monoclonal Antibody A1G4 Anti-Idiotype Vaccine
+C26680,NY-ESO-B
+C26767,Eye Disorder
+C26908,Uveal Disorder
+C27383,Meningeal Carcinomatosis
+C2754,ESO-1:157-165(165V) Peptide
+C2759,Human gp100 Plasmid DNA Vaccine
+C2774,MART-1 Vaccinia Vaccine
+C27987,Ultraviolet B Radiation
+C2806,Recombinant Fowlpox-gp100p209
+C2810,SB-AS02B Adjuvant
+C28775,ESO-1 (161-180) Peptide Vaccine
+C28784,27-35(27L):MART-1 Peptide
+C29187,MAGE-1 Vaccinia Contaminated with BVDV
+C29206,Monoclonal Antibody 96.5 F(ab)
+C29276,NA17 Peptide (Amino acid sequence VLPDVFIRCV)
+C2961,Conjunctival Neoplasm
+C34468,Choroid Disorder
+C38120,ESO-1 Reactive Autologous Tumor Infiltrating Lymphocyte
+C38126,Betulinic Acid
+C38143,Baloramotide
+C4554,Malignant Iris Neoplasm
+C45978,Fungating Mass
+C4751,Cutaneous Pigmented Spindle Cell Nevus
+C48419,Recombinant Vaccinia-NY-ESO-1 Vaccine
+C48632,MAGE-3.A1 Peptide Vaccine
+C48707,N1a TNM Finding
+C48714,N3 TNM Finding
+C48724,T2 TNM Finding
+C48786,N2 TNM Finding
+C51372,CXCR2 wt Allele
+C54393,BRMS1 wt Allele
+C54438,PMEL wt Allele
+C61311,B-Raf/VEGFR-2 Inhibitor RAF265
+C63782,Dacarbazine/Interferon Alfa Regimen
+C67098,Synthetic Peptides E-PRA And E-PSM Vaccine
+C68558,CHD5 wt Allele
+C68839,Xenogeneic Tyrosinase DNA Vaccine
+C70585,MITF wt Allele
+C7161,Cutaneous Melanocytic Neoplasm
+C71748,Autologous Anti-gp100:154-162 T-Cell Receptor Gene-Engineered Peripheral Blood Lymphocytes
+C7479,Metastatic Malignant Neoplasm in the Esophagus
+C7481,Malignant Gallbladder Neoplasm
+C77089,Hartley Albino Hairless Guinea Pig
+C77971,Immunotherapy Regimen MKC-1106-MT
+C78449,Glembatumumab Vedotin
+C79832,ALVAC(2)-NY-ESO-1 (M)/TRICOM Vaccine
+C81825,MIRLET7A1 wt Allele
+C81826,MIRLET7A3 wt Allele
+C82988,S-100 Immunohistochemistry Staining Method
+C84520,Glembatumumab
+C84854,MAGE-A1/MAGE-A3/NY-ESO-1 Peptides Vaccine
+C84872,Non-Small Cell Lung Cancer mRNA-Derived Vaccine CV9201
+C92586,Recombinant PRAME Protein Plus AS15 Adjuvant GSK2302025A
+C92591,BRAF(V600E) Kinase Inhibitor RO5212054
+C92980,Microstaging
+C9498,Melanocytoma
+C95298,CDK8 wt Allele
+C96042,NA-17/MAGE-3.A2/NY-ESO-1 Peptide Vaccine
+C98147,GRIN2A wt Allele
+C98180,SPRY4-IT1 wt Allele
+C101364,KCNMA1 wt Allele
+C10303,CDB Regimen
+C107159,MART-1/gp100/Tyrosinase/MAGE-A3 Peptides-loaded Irradiated Allogeneic Plasmacytoid Dendritic Cells
+C107167,pIRS2 Phosphopeptide-tetanus Peptide Vaccine
+C107168,pBCAR3/pIRS2-Phosphopeptide-tetanus Peptide Vaccine
+C1110,Ganglioside GD2
+C117190,SK-MEL-5
+C117191,UACC-257
+C118358,Exoresection
+C118973,Genetically-modified MAGE-A3-expressing MG1 Maraba Virus Vaccine
+C119614,MAGE-A3-expressing Adenovirus Type 5 Vaccine
+C120129,NY-ESO-1/MART-1 Peptide-pulsed Dendritic Cell Vaccine
+C120183,Eltrapuldencel-T
+C123428,Naxitamab
+C123649,MAGE-A3-specific Immunotherapeutic GSK 2132231A
+C128029,PRAME-targeting T-cell Receptor/Inducible Caspase 9 BPX-701
+C153083,Autologous CD8+ SLC45A2-specific T Lymphocytes
+C154272,Ipilimumab/Nivolumab Regimen
+C154326,Binimetinib/Encorafenib Regimen
+C154327,Cobimetinib/Vemurafenib Regimen
+C155849,mySmartCheck
+C1570,Dinutuximab
+C157051,Ipilimumab/Talimogene Laherparepvec Regimen
+C157710,Recombinant Vesicular Stomatitis Virus-expressing Interferon-beta and Tyrosinase Related Protein 1
+C158511,Polidocanol
+C160013,Crizotinib Regimen
+C160091,Nilotinib Regimen
+C160102,Paclitaxel Regimen
+C160796,Binimetinib Regimen
+C162462,Anti-MAGE-A4 T-cell Receptor/Anti-CD3 scFv Fusion Protein IMC-C103C
+C162764,WT1/PRAME/Survivin-specific Cytotoxic T-lymphocytes
+C170976,Anti-PRAME T-cell Receptor/Anti-CD3 scFv Fusion Protein IMC-F106C
+C187245,Ripretinib Regimen
+C188170,Lead Pb 203-VMT01
+C188171,Gallium Ga 68-VMT02
+C188301,M1d TNM Finding
+C188985,Autologous Anti-PRAME TCR/CD8alphabeta-expressing T-cells IMA203CD8
+C190693,Actinium Ac 225-DOTA-MTI-201
+C192893,BRCA Gene Family
+C204514,WNT-Activated Deep Penetrating/Plexiform Melanocytoma (Nevus)
+C204977,Conjunctival Melanocytic Neoplasm
+C207656,Vulvar Cancer TNM Finding v9
+C210490,Atezolizumab and Recombinant Human Hyaluronidase Regimen
+C214258,FACT-M Version 4 - My Family Has Accepted My Illness
+C214259,FACT-M Version 4 - Satisfied Communication Illness
+C214261,FACT-M Version 4 - I Am Satisfied With My Sex Life
+C214264,FACT-M Version 4 - Losing Hope Against Illness
+C214271,FACT-M Version 4 - I Have Accepted My Illness
+C214272,FACT-M Version 4 - I Am Sleeping Well
+C214274,FACT-M Version 4 - Content With Quality of My Life
+C214281,FACT-M Version 4 - I Have Had Fevers
+C214282,FACT-M Version 4 - Swelling or Cramps in Stomach Area
+C214283,FACT-M Version 4 - I Have a Good Appetite
+C214285,FACT-M Version 4 - I Have Noticed Blood in My Stool
+C214299,FACT-M Version 4 - Physical Subscale Score
+C214300,FACT-M Version 4 - Social/Family Subscale Score
+C215678,Metastatic Malignant Neoplasm in the Endocrine Glands
+C222239,PRAME mRNA Vaccine mRNA-4203
+C2227,Monoclonal Antibody 4B5 Anti-Idiotype Vaccine
+C2382,Mitumomab
+C2432,Vitespen
+C2462,Radioactive Iodine
+C2650,Synchrotope TA2M Plasmid DNA Vaccine
+C26695,Anal Disorder
+C2680,NA17.A2 Peptide Vaccine
+C2681,MAGE-10.A2
+C2723,MAGE-12: 170-178 Peptide
+C2748,D1/3-Mage-3-His Fusion Protein
+C2764,gp100:154-162 Peptide Vaccine
+C2772,MART-1:26-35(27L) Peptide Vaccine
+C2815,TRP-2: 180-188 Peptide
+C2816,TRP1(0RF3):1-9 Peptide
+C29197,Monoclonal Antibody 1.4 F(ab)
+C29200,Monoclonal Antibody 48.7 F(ab)
+C29511,TriGem
+C29555,gp100 Protein (184V)
+C29566,Recombinant Vaccinia-gp100:209-217
+C3437,Vaginal Neoplasm
+C3443,Vulvar Neoplasm
+C36101,BRCA2-Related Hereditary Breast and Ovarian Cancer Syndrome
+C38124,gp100-Reactive Autologous Peripheral Blood Lymphocyte
+C40000,Ovarian Dermoid Cyst with Secondary Melanocytic Lesion
+C40335,Vulvar Melanocytic Neoplasm
+C40351,Breast Carcinoma with Melanotic Features
+C4661,Central Nervous System Melanocytic Neoplasm
+C4758,Metastatic Malignant Neoplasm in the Liver
+C48398,Ingenol Mebutate
+C48630,Tyrosinase:146-156 Peptide
+C48703,M1c TNM Finding
+C48713,N2c TNM Finding
+C49022,gp100:209-217(210M) Peptide Vaccine
+C51188,AKT3 wt Allele
+C51739,AXL wt Allele
+C52069,DEK wt Allele
+C61095,Ecromeximab
+C61495,Melan-A VLP Vaccine
+C62452,NY-ESO-1 Plasmid DNA Cancer Vaccine pPJV7611
+C63781,Dartmouth Regimen
+C68999,NY-ESO-1b Peptide Vaccine
+C80042,Anti-GD2 Monoclonal Antibody hu14.18K322A
+C80702,MIRLET7B Gene
+C91088,Autologous IL-21-Modulated CD8+ MART1-Specific T Cells
+C91710,MAGE-A3 Peptide Vaccine
+C95903,Metastatic Malignant Neoplasm in the Stomach
+C9629,POCC Regimen
+C9951,Carmustine/Dacarbazine/Hydroxyurea Regimen
+C4224,Melanoma In Situ
+C5505,Central Nervous System Melanoma
+C60471,Rat Malignant Uveal Melanoma
+C9342,Spindle Cell Intraocular Melanoma
+C37815,Incomplete Freund's Adjuvant/Peptide 946 Melanoma Vaccine/Tetanus Peptide Melanoma Vaccine
+C27264,Hereditary Atypical Mole Melanoma Syndrome
+C49086,Allogeneic Melanoma Cell-Loaded Dendritic Cell Vaccine
+C20351,MAGE Family A Gene
+C17878,Melan-A
+C9499,Melanomatosis
+C2612,ESO-1 Peptide Vaccine
+C63784,DTIC-BCNU-Cisplatin Regimen
+C29947,Recombinant Vaccinia-Tyrosinase
+C2427,Dendritic Cell-G9-209-2M Peptide Vaccine
+C29671,G Protein-Coupled Receptor 54
+C91714,Immunotherapeutic GSK1572932A
+C138107,Autologous Genetically-modified MAGE-A4 C1032 T Cells
+C23914,Murine Interval Lymph Node

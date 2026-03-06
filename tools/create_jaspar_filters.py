@@ -57,7 +57,7 @@ def obtain_taxonomy_id(species_search_term):
     return tax_id
 
 
-def obtain_all_celllines(cellline_search_term, tax_id, rows_size=1000):
+def obtain_all_cell_lines(cell_line_search_term, tax_id, rows_size=1000):
     url = "https://api.cellosaurus.org/search/cell-line"
 
     start = 0
@@ -66,7 +66,7 @@ def obtain_all_celllines(cellline_search_term, tax_id, rows_size=1000):
     while True:
 
         params = {
-            'q': f'di:{cellline_search_term} ox:{tax_id}',
+            'q': f'di:{cell_line_search_term} ox:{tax_id}',
             'start': start,
             'rows': rows_size,
             'format': 'json'
@@ -84,55 +84,58 @@ def obtain_all_celllines(cellline_search_term, tax_id, rows_size=1000):
         else:
             break
 
-    print(f'Total cell line(s) retrieved for {cellline_search_term}:', len(all_cell_lines_data))
+    print(f'Total cell line(s) retrieved for {cell_line_search_term}:', len(all_cell_lines_data))
     return all_cell_lines_data
 
 
-def warn(cellline_id, data_field):
-    print(f'{cellline_id} lacks {data_field}')
+def warn(cell_line_id, data_field):
+    print(f'{cell_line_id} lacks {data_field}')
     return np.nan
 
 
-def celllines_df_clearing(all_cell_lines_data):
+def cell_lines_df_clearing(all_cell_lines_data):
     cell_line_dict_list = []
 
     for cell_line_data in all_cell_lines_data:
         cell_line_dict = {}
 
-        cellline_id = cell_line_data['accession-list'][0]['value']  # This data field will definitely be avaiable
+        cell_line_id = cell_line_data['accession-list'][0]['value']  # This data field will definitely be avaiable
 
-        cell_line_dict['cellline_id'] = cellline_id
+        cell_line_dict['cell_line_id'] = cell_line_id
 
         # Some cell lines might lack some data fields so the basic ideas for the following lines are like using try blocks on each data field retrieve
-        cell_line_dict['age'] = cell_line_data.get('age') or warn(cellline_id, 'age')
-        cell_line_dict['sex'] = cell_line_data.get('sex') or warn(cellline_id, 'sex')
-        cell_line_dict['category'] = cell_line_data.get('category') or warn(cellline_id, 'category')
+        cell_line_dict['age'] = cell_line_data.get('age') or warn(cell_line_id, 'age')
+        cell_line_dict['sex'] = cell_line_data.get('sex') or warn(cell_line_id, 'sex')
+        cell_line_dict['category'] = cell_line_data.get('category') or warn(cell_line_id, 'category')
 
         name_list = cell_line_data.get('name-list')
-        cell_line_dict['cellline_name'] = (
-            ','.join([name_dict['value'] for name_dict in name_list]) if name_list else warn(cellline_id, 'name-list')
+        cell_line_dict['cell_line_name'] = (
+            ','.join([name_dict['value'] for name_dict in name_list]) if name_list else warn(cell_line_id, 'name-list')
         )
 
         species_list = cell_line_data.get('species-list')
         cell_line_dict['species'] = (
-            ','.join([species_dict['label'] for species_dict in species_list]) if species_list else warn(cellline_id,
-                                                                                                         'species-list')
+            ','.join([species_dict['label'] for species_dict in species_list]) if species_list else warn(
+                cell_line_id,
+                'species-list')
         )
 
         organ_list = cell_line_data.get('derived-from-site-list')
         cell_line_dict['organ'] = (
-            ','.join([organ_dict['site']['value'] for organ_dict in organ_list]) if organ_list else warn(cellline_id,
-                                                                                                         'derived-from-site-list')
+            ','.join([organ_dict['site']['value'] for organ_dict in organ_list]) if organ_list else warn(
+                cell_line_id,
+                'derived-from-site-list')
         )
         cell_line_dict['site_type'] = (
             ','.join([organ_dict['site']['site-type'] for organ_dict in organ_list]) if organ_list else warn(
-                cellline_id, 'derived-from-site-list')
+                cell_line_id, 'derived-from-site-list')
         )
 
         disease_list = cell_line_data.get('disease-list')
         cell_line_dict['disease'] = (
-            ','.join([disease_dict['label'] for disease_dict in disease_list]) if disease_list else warn(cellline_id,
-                                                                                                         'disease-list')
+            ','.join([disease_dict['label'] for disease_dict in disease_list]) if disease_list else warn(
+                cell_line_id,
+                'disease-list')
         )
 
         cell_line_dict_list.append(cell_line_dict)
