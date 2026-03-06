@@ -1,7 +1,12 @@
-# GeneTFBindingSitePredict
+# Preludio
+Inspired by the musical concept of a prelude, Preludio is a computational tool designed to predict transcription factor (TF) binding sites from promoter sequence of given genes of interests. It analyzes the regulatory sequence preceding a gene to infer the TF that may shape a gene's expression and inspires researchers to pursue promising downstream investigations of regulatory mechanisms.
 
 # Installation of MEME suite
+MEME suit contains fimo, which is the core tool that predict TF binding sites. 
+* It's a Linux tool so running it requires a Linux system. If you're using Windows, you can follow the steps below to activate the Windows Subsystem for Linux (WSL). 
+
 ## Activate or reset WSL
+This provides a Linux system in the Windows system
 Install new Ubuntu
 1. Open Windows PowerShell 
 2. Install new Ubuntu: `wsl --install -d Ubuntu`
@@ -61,12 +66,13 @@ hash -r
    * If you can see a version number, that means the installation is successful 
 
 # Set up WSL interpreter
+PyCharm requires this step so it can use the fimo inside the WSL. This might require a Professional edition of PyCharm, but workarounds are also possible. 
 1. Click on the interpreter in PyCharm → Add new interpreter → On WSL
 2. PyCharm should pop out a window for New target: WSL and find your WSL 
 3. Once the interpreter shows as the WSL one, you can normally install packages 
    * A test that the interpreter works normally is by running a cell with `! fimo --version`. If it shows you the version number, then that means your Windows machine can find the fimo on your WSL
    * You can use `! pwd` to know the current working directory 
 
-# Other websites
-TFINDER: https://tfinder-ipmc.streamlit.app/
-QIAGEN IPA: https://digitalinsights.qiagen.com/news/blog/discovery/free-pathway-analysis-how-much-do-you-really-save/?gad_source=1&gad_campaignid=21524076944&gbraid=0AAAAADbyWl2uQnkxvyz0nu3UhGCtCzbtZ&gclid=CjwKCAjwiY_GBhBEEiwAFaghvpT_jCcj2oCLWroX_CkLUiqlJob0c0fU9CPxnx6ickPRsRwDxcs0_RoCtFgQAvD_BwE 
+# Other helpful websites
+TFinder: https://tfinder-ipmc.streamlit.app/
+Fimo: https://meme-suite.org/meme/doc/fimo.html
