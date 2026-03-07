@@ -81,3 +81,10 @@ If you need to narrow down the motif scanning by disease type, motif scanning wi
 TFinder: https://tfinder-ipmc.streamlit.app/
 
 Fimo: https://meme-suite.org/meme/doc/fimo.html
+
+# Licence & Citation
+Copyright (c) 2026 Junqi Lu.
+
+This tool is distributed under an MIT licence. Please consult the LICENSE file for more details.
+
+Citation can be found on the right side menu bar of this GitHub page by clicking "Cite this repository"
