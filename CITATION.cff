@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.0.0
+title: Preludio
+message: >-
+  If you use this tool, please cite it using the metadata
+  from this file.
+type: software
+authors:
+  - given-names: Junqi
+    family-names: Lu
+    orcid: 'https://orcid.org/0000-0002-8972-9564'
+    affiliation: Duke University
+repository-code: 'https://github.com/junqilu/Preludio'
+license: MIT
