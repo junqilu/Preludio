@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-def obtain_jaspar_dataset(ncit_search_term, page_size=500):
+def obtain_ncit_concepts(ncit_search_term, page_size=500):
     url = 'https://api-evsrest.nci.nih.gov/api/v1/concept/ncit/search'  # NCIt is NCI Thesaurus
 
     start = 0  # This will be gradually increased in the loop to move the search window
@@ -57,7 +57,7 @@ def obtain_taxonomy_id(species_search_term):
     return tax_id
 
 
-def obtain_all_cell_lines(cell_line_search_term, search_term_type, tax_id, rows_size=1000):
+def obtain_all_cell_lines(cell_line_search_term, search_term_type, tax_id=9606, rows_size=1000):
     url = 'https://api.cellosaurus.org/search/cell-line'
 
     start = 0
@@ -93,7 +93,7 @@ def warn(cell_line_id, data_field):
     return np.nan
 
 
-def cell_lines_df_clearing(all_cell_lines_data):
+def cell_lines_df_clear_save(all_cell_lines_data, cell_line_search_term, save_dir_cell_lines):
     cell_line_dict_list = []
 
     for cell_line_data in all_cell_lines_data:
