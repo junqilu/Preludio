@@ -1,4 +1,4 @@
-import requests
+import requests, os
 import pandas as pd
 import numpy as np
 
@@ -141,4 +141,20 @@ def cell_lines_df_clear_save(all_cell_lines_data, cell_line_search_term, save_di
         cell_line_dict_list.append(cell_line_dict)
 
     cell_line_df = pd.DataFrame(cell_line_dict_list)
+
+    cell_line_df = cell_line_df[[
+        'cell_line_id',
+        'cell_line_name',
+        'organ',
+        'site_type',
+        'disease',
+        'age',
+        'sex',
+        'category',
+        'species'
+    ]]  # Reorder the columns
+
+    save_dir_cell_line_csv = os.path.join(save_dir_cell_lines, f'cell_lines_{cell_line_search_term}.csv')
+    cell_line_df.to_csv(save_dir_cell_line_csv, index=False)
+
     return cell_line_df
