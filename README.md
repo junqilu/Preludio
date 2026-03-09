@@ -73,7 +73,18 @@ PyCharm requires this step so it can use the fimo inside the WSL. This might req
    * A test that the interpreter works normally is by running a cell with `! fimo --version`. If it shows you the version number, then that means your Windows machine can find the fimo on your WSL
    * You can use `! pwd` to know the current working directory 
 
+# JASPAR
+If you need to narrow down the motif scanning by disease type, motif scanning with the full JASPAR database first and then filter for those expressed in myeloma is recommended than filter the JASPAR database for TF expressed in myeloma and then motif scanning
+
+
 # Other helpful websites
 TFinder: https://tfinder-ipmc.streamlit.app/
 
 Fimo: https://meme-suite.org/meme/doc/fimo.html
+
+# Licence & Citation
+Copyright (c) 2026 Junqi Lu.
+
+This tool is distributed under an MIT licence. Please consult the LICENSE file for more details.
+
+Citation can be found on the right side menu bar of this GitHub page by clicking "Cite this repository"

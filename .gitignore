@@ -1,2 +1,3 @@
 /.idea
 /input/obtained_seq/*
+/input/filters/OmicsExpressionProteinCodingGenesTPMLogp1.csv

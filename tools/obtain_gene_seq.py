@@ -1,4 +1,4 @@
-import requests
+import os, requests
 import xml.etree.ElementTree as ET
 
 
@@ -161,6 +161,8 @@ def gene_name_to_download_seq(gene_name, seq_type='promoter',
         upstream_bp,
         downstream_bp
     )
+
+    os.makedirs('input/obtained_seq', exist_ok=True)
 
     if save_file:
         save_file_directory = f'input/obtained_seq/seq_{gene_name}_{seq_type}_{upstream_bp}_{downstream_bp}.fna'
