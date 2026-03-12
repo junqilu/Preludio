@@ -1,5 +1,14 @@
 /.idea
-/input/obtained_seq/*
+
+#Ignore huge files
 /input/filters/OmicsExpressionProteinCodingGenesTPMLogp1.csv
 /input/filters/rna_single_cell_type.tsv
-/output/
+
+#Ignore all the input seq other than the example
+/input/obtained_seq/*
+!/input/obtained_seq/seq_MITF_promoter_5000_2000.fna
+
+#Ignore all the output other than the example
+/output/*
+!output/MITF_jaspar_human_full/
+!output/MITF_jaspar_human_full/**
