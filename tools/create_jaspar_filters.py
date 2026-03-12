@@ -1,4 +1,7 @@
-import requests, os
+import pickle
+import re
+import requests
+import os
 import pandas as pd
 import numpy as np
 
@@ -93,7 +96,7 @@ def warn(cell_line_id, data_field):
     return np.nan
 
 
-def cell_lines_df_clear_save(all_cell_lines_data, cell_line_search_term, save_dir_cell_lines):
+def cell_lines_df_clear_save(all_cell_lines_data, save_dir_cell_line_csv):
     cell_line_dict_list = []
 
     for cell_line_data in all_cell_lines_data:
@@ -154,7 +157,100 @@ def cell_lines_df_clear_save(all_cell_lines_data, cell_line_search_term, save_di
         'species'
     ]]  # Reorder the columns
 
-    save_dir_cell_line_csv = os.path.join(save_dir_cell_lines, f'cell_lines_{cell_line_search_term}.csv')
     cell_line_df.to_csv(save_dir_cell_line_csv, index=False)
 
     return cell_line_df
+
+
+def extract_cell_line_names(input_cell_line_df):
+    cell_line_names = [name for name_list in input_cell_line_df['cell_line_name'] for name in
+                       name_list.split(',')]  # Pool all the names into a 1D list
+    cell_line_names_stripped = [re.sub(r'[^A-Za-z0-9]', '', name) for name in
+                                cell_line_names]  # It seems like the stripped cell line names are just the original names with all the special char and spaces removed
+
+    cell_line_names_total = cell_line_names + cell_line_names_stripped
+    cell_line_names_total = list(set(cell_line_names_total))  # Remove duplicated names
+
+    cell_line_names_total.sort()
+    return cell_line_names_total
+
+
+def cell_line_names_to_model_id(cell_line_names, model_df):
+    model_df_filtered = model_df[
+        model_df["CellLineName"].isin(cell_line_names) |
+        model_df["StrippedCellLineName"].isin(cell_line_names)
+        ]
+
+    model_df_filtered = model_df_filtered.reset_index(drop=True)
+    model_id = model_df_filtered['ModelID'].tolist()
+
+    return model_id
+
+
+def strip_col_gene_name(col_name):
+    match = re.match(r"^(.+?)\s*\(\d+\)$", str(col_name))
+
+    if match:
+        return match.group(1)
+    else:
+        return col_name
+
+
+def expression_df_filterd_by_cell_lines(whole_expression_df, model_id_cell_lines):
+    expression_df_cell_lines = whole_expression_df[whole_expression_df['Unnamed: 0'].isin(model_id_cell_lines)]
+    expression_df_cell_lines = expression_df_cell_lines.reset_index(
+        drop=True)  # expression_df_cell_lines now contains all the cell lines ModelID and expressed proteins
+
+    expression_df_cell_lines.columns = [strip_col_gene_name(col) for col in
+                                        expression_df_cell_lines.columns]  # Clean the col title so expression_df_cell_lines's col now only have the gene name
+    expression_df_cell_lines = expression_df_cell_lines.rename(columns={
+        'Unnamed: 0': 'ModelID'})  # Rename the first col into 'ModelID'. expression_df_cell_lines now has all the genes expressed by melanoma cell lines
+
+    return expression_df_cell_lines
+
+
+def expression_df_cell_lines_filtered_by_tf(expression_df_cell_lines, whole_tf_names):
+    expression_tf_df_cell_lines = expression_df_cell_lines.loc[:, expression_df_cell_lines.columns.isin(
+        whole_tf_names + ['ModelID'])].copy()  # expression_tf_df_cell_lines has all the TF expressed in cell lines
+
+    return expression_tf_df_cell_lines
+
+
+def expression_tf_df_cell_lines_to_tf_list(expression_tf_df_cell_lines, TPM_LOGP1_threshold, FRACTION_REQUIRED,
+                                           cell_name):
+    expr_only = expression_tf_df_cell_lines.iloc[:, 1:]  # Exclude the 1st col which are the ModelID
+
+    frac_expressed = (expr_only >= TPM_LOGP1_threshold).sum(axis=0) / expr_only.shape[0]
+
+    expressed_mask = frac_expressed >= FRACTION_REQUIRED
+    expressed_tf = expr_only.columns[expressed_mask].tolist()
+    expressed_tf = sorted(expressed_tf)
+
+    print(
+        f'Found {len(expressed_tf)} TF from JASPAR dataset for TF expressed in specific {cell_name.upper()} cell lines')
+    # print(expressed_tf)
+
+    with open(f'input/filters/tf_{cell_name}.pkl', 'wb') as file:
+        pickle.dump(expressed_tf, file)
+    with open(f'input/filters/tf_{cell_name}.txt', 'w') as file:
+        if len(expressed_tf) != 0:
+            for tf in expressed_tf:
+                file.write(tf + '\n')
+        else:
+            file.write('')
+
+    print(f'Files saved for names of TF expressed in {cell_name.upper()} cell lines')
+
+    del expressed_tf
+
+
+def expression_df_to_expression_tf_df_cell_lines(whole_expression_df, model_id_cell_lines, whole_tf_names,
+                                                 TPM_LOGP1_threshold, FRACTION_REQUIRED, cell_name):
+    expression_df_cell_lines = expression_df_filterd_by_cell_lines(whole_expression_df, model_id_cell_lines)
+
+    expression_tf_df_cell_lines = expression_df_cell_lines_filtered_by_tf(expression_df_cell_lines, whole_tf_names)
+
+    expression_tf_df_cell_lines_to_tf_list(expression_tf_df_cell_lines, TPM_LOGP1_threshold, FRACTION_REQUIRED,
+                                           cell_name)
+
+    del expression_df_cell_lines, expression_tf_df_cell_lines

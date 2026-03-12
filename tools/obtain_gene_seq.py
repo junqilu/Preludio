@@ -1,5 +1,30 @@
-import os, requests
+import os
+import requests
+import time
 import xml.etree.ElementTree as ET
+
+session = requests.Session()
+
+
+def ncbi_get(url, params=None, timeout=30, max_retries=6,
+             delay=0.5):  # A protection function to avoid API rate limit exceeded issue
+    for attempt in range(max_retries):
+        time.sleep(delay)
+        r = session.get(url, params=params, timeout=timeout)
+
+        if r.status_code in (429, 500, 502, 503, 504):
+            time.sleep(min(2 ** attempt, 20))
+            continue
+
+        r.raise_for_status()
+
+        if '"error":"API rate limit exceeded"' in r.text:
+            time.sleep(min(2 ** attempt, 20))
+            continue
+
+        return r
+
+    raise RuntimeError("NCBI request failed repeatedly due to rate limit/server issues.")
 
 
 def gene_name_to_id(gene_name):  # Return gene_uid with a given gene_name (it has to be the name of the gene)
@@ -11,7 +36,7 @@ def gene_name_to_id(gene_name):  # Return gene_uid with a given gene_name (it ha
     }
 
     try:
-        r = requests.get(search_url, params=params, timeout=10)
+        r = ncbi_get(search_url, params=params, timeout=10)
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
         raise RuntimeError(f"NCBI request failed: {e}")
@@ -38,7 +63,7 @@ def gene_uid_to_gene_summary(gene_uid):  # Return very informational gene_summar
     }
 
     try:
-        r = requests.get(summary_url, params=params, timeout=10)
+        r = ncbi_get(summary_url, params=params, timeout=10)
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
         raise (RuntimeError(f"NCBI request failed: {e}"))
@@ -50,7 +75,6 @@ def gene_uid_to_gene_summary(gene_uid):  # Return very informational gene_summar
     else:
         gene_summary = gene_json["result"][gene_uid]
 
-        print(f'>>>> Gene summary found for {gene_summary['description']}')
         return gene_summary
 
 
@@ -67,7 +91,7 @@ def get_strand_from_gene_efetch(entrez_id: str, timeout: int = 30) -> str:
         "retmode": "xml"
     }
 
-    r = requests.get(url, params=params, timeout=timeout)
+    r = ncbi_get(url, params=params, timeout=timeout)
     r.raise_for_status()
 
     root = ET.fromstring(r.text)
@@ -130,14 +154,17 @@ def retrieve_seq(gene_name, gene_uid, chromosome, strand, tss, seq_type='promote
         "retmode": "text"
     }
 
-    fasta = requests.get(efetch_url, params=params).text
+    fasta = ncbi_get(efetch_url, params=params).text
 
     lines = fasta.splitlines()
 
     header = lines[0][1:]
+    if 'error' in header:
+        print(header)
+
     header_mine = f'>NIH gene ID: {gene_uid} {gene_name} | {header} | Strand: {strand} | Type: {seq_type} | TSS (on chromosome): {tss} | TSS (on sequence): {upstream_bp}'
 
-    seq = "".join(lines[1:])
+    seq = ''.join(lines[1:])
 
     seq_clean = header_mine + '\n' + seq
 
@@ -147,26 +174,33 @@ def retrieve_seq(gene_name, gene_uid, chromosome, strand, tss, seq_type='promote
 def gene_name_to_download_seq(gene_name, seq_type='promoter',
                               upstream_bp=5000, downstream_bp=2000, save_file=True):
     # By default, the obtained .fna will be saved into the input/obtained_seq folder
-    gene_uid = gene_name_to_id(gene_name)
-    gene_summary = gene_uid_to_gene_summary(gene_uid)
-    chromosome, strand, tss = determine_TSS_from_gene_summary(gene_summary)
+    save_file_directory = f'input/obtained_seq/seq_{gene_name}_{seq_type}_{upstream_bp}_{downstream_bp}.fna'
 
-    seq_clean = retrieve_seq(
-        gene_name,
-        gene_uid,
-        chromosome,
-        strand,
-        tss,
-        seq_type,
-        upstream_bp,
-        downstream_bp
-    )
+    if not os.path.exists(save_file_directory):
 
-    os.makedirs('input/obtained_seq', exist_ok=True)
+        gene_uid = gene_name_to_id(gene_name)
+        gene_summary = gene_uid_to_gene_summary(gene_uid)
+        chromosome, strand, tss = determine_TSS_from_gene_summary(gene_summary)
 
-    if save_file:
-        save_file_directory = f'input/obtained_seq/seq_{gene_name}_{seq_type}_{upstream_bp}_{downstream_bp}.fna'
-        with open(save_file_directory, "w") as f:
-            f.write(seq_clean)
+        seq_clean = retrieve_seq(
+            gene_name,
+            gene_uid,
+            chromosome,
+            strand,
+            tss,
+            seq_type,
+            upstream_bp,
+            downstream_bp
+        )
 
-    return seq_clean
+        os.makedirs('input/obtained_seq', exist_ok=True)
+
+        if save_file:
+            with open(save_file_directory, "w") as f:
+                f.write(seq_clean)
+
+            print(f'Sequence is saved to {save_file_directory}')
+    else:
+        print(f'Sequence is already available at {save_file_directory}')
+
+    return save_file_directory
