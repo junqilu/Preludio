@@ -76,11 +76,16 @@ PyCharm requires this step so it can use the fimo inside the WSL. This might req
 # JASPAR
 If you need to narrow down the motif scanning by disease type, motif scanning with the full JASPAR database first and then filter for those expressed in myeloma is recommended than filter the JASPAR database for TF expressed in myeloma and then motif scanning
 
+## Filtering workflow
+Through these steps, fimo motif scanning results can be filtered for a list of TF expressed in cell lines of interests for a focused disease (image below uses MBM as the focused disease).
+![filtering_workflow.png](readme_images/filtering_workflow.png)
+
 
 # Other helpful websites
 TFinder: https://tfinder-ipmc.streamlit.app/
 
 Fimo: https://meme-suite.org/meme/doc/fimo.html
+* Online running: https://meme-suite.org/meme/tools/fimo 
 
 # Licence & Citation
 Copyright (c) 2026 Junqi Lu.
