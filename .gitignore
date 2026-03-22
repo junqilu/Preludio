@@ -12,3 +12,7 @@
 /output/*
 !output/MITF_jaspar_human_full/
 !output/MITF_jaspar_human_full/**
+
+#Ignore all CHIP-Seq data
+/input/chip_seq/*
+/output/chip_seq/*
