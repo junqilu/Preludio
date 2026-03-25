@@ -101,6 +101,7 @@ Through these steps, fimo motif scanning results can be filtered for a list of T
    * ENCODE can be used for CHIP-Seq data for real biological cross validation: https://www.encodeproject.org/ 
      * This website contains real ChIP-Seq data and can quickly test the likelihood of a TF binding to a genomic region in a real biological context
      * Note that all the fold over control tracks have used the control track information. To display both the control and the unprocessed tracks in UCSC, follow `encode_to_ucsc_visualization.ipynb` to convert the bam files into bigWig files
+       * You can use `encode_to_ucsc_visualization_google_colab.ipynb` to do the same thing in Google Colab to avoid WSL, but it runs significantly slower (about a 3rd time of slower) than `encode_to_ucsc_visualization.ipynb` with WSL 
    * Steps:
      1. For a given TF's data, scroll down to `Genome browser` and change the coordinate to the range of interests (usually 5000 bp upstream and 2000 bp downstream)
      1. Select the `fold change over control` track and `2 replicates`. See if a peak exists and is aligned with representative DNase hypersensitivity sites or cCRE
